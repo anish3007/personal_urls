@@ -2,7 +2,7 @@
 Repo for recording the important URLS
 
 ## Computer Science
-Structure and Interpretation of Computer Programs - https://opendocs.github.io/sicp/sicp.pdf
+Structure and Interpretation of Computer Programs - https://opendocs.github.io/sicp/sicp.pdf  
 principled approach to system design and programming - https://urbit.org/blog/precepts/
 
 ## Other Educational
