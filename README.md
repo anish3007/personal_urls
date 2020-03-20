@@ -3,7 +3,8 @@ Repo for recording the important URLS
 
 ## Computer Science
 Structure and Interpretation of Computer Programs - https://opendocs.github.io/sicp/sicp.pdf  
-principled approach to system design and programming - https://urbit.org/blog/precepts/
+principled approach to system design and programming - https://urbit.org/blog/precepts  
+Functional Programming For The Rest of Us - http://www.defmacro.org/2006/06/19/fp.html  
 
 ## Other Educational
 Statistics 110: Probability - https://projects.iq.harvard.edu/stat110/youtube
