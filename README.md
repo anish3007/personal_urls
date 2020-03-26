@@ -1,5 +1,5 @@
-# personal_urls
-Repo for recording the important URLS
+# URLs and Bookmarks worth saving
+Repo for recording some helpful URLS and Bookmarks.
 
 ## Computer Science
 ### General Computer Science
