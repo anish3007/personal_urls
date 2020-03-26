@@ -38,28 +38,28 @@ Go Programming Language
 
 
 
-### Technology Blogs
+## General Technology Blogs
 * Wired - https://www.wired.com/  
 * MIT Technology Review - https://www.technologyreview.com/  
 * TechCrunch - https://techcrunch.com/  
 * Hacker News -  https://news.ycombinator.com/  
 
 
-### Maths
+## Maths
 * Statistics 110: Probability - https://projects.iq.harvard.edu/stat110/youtube
 
 
-### Physics
+## Physics
 * The Feynman Lectures - https://www.feynmanlectures.caltech.edu/  
 * so-you-want-to-learn-physics - https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics  
 * quantum-mechanics-for-high-school-students - https://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html   
 * Physics problems - https://physics.stackexchange.com/questions/20832/is-there-a-physics-puzzles-site-like-project-euler   
 
 
-### Other Educational
+## Other Educational
 
 
-### Entertainment
+## Entertainment
 * https://goodmovieslist.com/   
 * https://www.scoopwhoop.com/30-Hollywood-Movies-That-Should-Never-Be-Remade/?ref=social&type=fb&b=0&fbclid=IwAR1irI1XvJ9hvzeDW07BhKb0zNT_y47j8WgTlER64xv-_ZJL0qF7LatFdP0  
 
