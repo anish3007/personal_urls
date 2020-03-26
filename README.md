@@ -8,10 +8,10 @@ Repo for recording some helpful URLS and Bookmarks.
 * Functional Programming For The Rest of Us - http://www.defmacro.org/2006/06/19/fp.html  
 
 ### Programming Language
-#### ...C
+...#### C
 * Bell Labs C Manual - https://www.bell-labs.com/usr/dmr/www/cman.pdf  
 
-#### ...Go Programming Language
+...#### Go Programming Language
 * Introduction to Go - https://gobyexample.com/   
 * Go Tutorial - http://www.golangbootcamp.com/book/intro  
 * Concurrency in Go - https://divan.dev/posts/go_concurrency_visualize/  
