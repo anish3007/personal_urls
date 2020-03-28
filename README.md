@@ -97,6 +97,10 @@ Repo for recording some helpful URLS and Bookmarks.
 * A minimalist stylesheet for HTML elements - https://andybrewer.github.io/mvp/  
 * bare-metal assembly - https://johv.dk/blog/bare-metal-assembly-tutorial.html  
 * New Hard Drive rituals - https://blog.linuxserver.io/2018/10/29/new-hard-drive-rituals/  
+* the-culture-war-at-the-heart-of-open-source - https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source   
+* What I Learned in My First Year as a Solo Founder - https://tik.dev/lessons-learned   
+* Registry of open data on AWS - https://registry.opendata.aws/  
+
 
 
 ## General Technology Blogs
@@ -121,7 +125,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * A protocol for dying - http://hintjens.com/blog:115  
 * Dean Yeong reading list - https://deanyeong.com/reading-notes/?utm_source=Quora&utm_medium=content&utm_campaign=quora+traffic  
 * 10 things every programmer should know for first job - http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/  
-
+* The key to good luck - http://nautil.us/blog/-the-key-to-good-luck-is-an-open-mind   
 
 ## Entertainment
 * https://goodmovieslist.com/   
