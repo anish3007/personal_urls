@@ -91,6 +91,11 @@ Repo for recording some helpful URLS and Bookmarks.
 * How to read content of GeeksforGeeks in an organized way - https://www.geeksforgeeks.org/how-to-read-content-of-geeksforgeeks-in-an-organized-way/   
 * Mathematics for Computer Science - https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf  
 * Google Developer - https://developers.google.com/  
+* How-I-Became-Better-Programmer(James Long - developer of prettier) - https://jlongster.com/How-I-Became-Better-Programmer   
+* Papers we love - https://paperswelove.org/  
+* Papers we love github repo - https://github.com/papers-we-love/papers-we-love  
+* A minimalist stylesheet for HTML elements - https://andybrewer.github.io/mvp/  
+
 
 
 ## General Technology Blogs
