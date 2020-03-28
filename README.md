@@ -15,14 +15,20 @@ Repo for recording some helpful URLS and Bookmarks.
 * Go Tutorial - http://www.golangbootcamp.com/book/intro  
 * Concurrency in Go - https://divan.dev/posts/go_concurrency_visualize/  
 * Channels in Go - https://dave.cheney.net/2013/04/30/curious-channels 
+* Notes on structured concurrency - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#nurseries-a-structured-replacement-for-go-statements  
+
 
 ### Python
 * Python Cheatsheet - https://www.pythonforbeginners.com/cheatsheet/  
 * Best Python Resources for Beginners and Professionals - https://pythontips.com/2013/09/01/best-python-resources/  
-* 
+* python-speech-recognition - https://realpython.com/python-speech-recognition/  
+
 
 ### Markdown
 * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
+
+### Git
+* git log - https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/   
 
 
 ## Operating Systems
@@ -64,6 +70,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * MNIST Database - http://yann.lecun.com/exdb/mnist/  
 * ConvnetJS demo - https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html 
 * Neural Network playground - http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.99027&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+* Kaggle Dataset - https://www.kaggle.com/datasets  
 
 
 ## Deep Learning 
@@ -100,7 +107,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * the-culture-war-at-the-heart-of-open-source - https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source   
 * What I Learned in My First Year as a Solo Founder - https://tik.dev/lessons-learned   
 * Registry of open data on AWS - https://registry.opendata.aws/  
-
+* Netflix concurrency limits - https://github.com/Netflix/concurrency-limits   
 
 
 ## General Technology Blogs
