@@ -95,7 +95,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Papers we love - https://paperswelove.org/  
 * Papers we love github repo - https://github.com/papers-we-love/papers-we-love  
 * A minimalist stylesheet for HTML elements - https://andybrewer.github.io/mvp/  
-
+* bare-metal assembly - https://johv.dk/blog/bare-metal-assembly-tutorial.html  
+* New Hard Drive rituals - https://blog.linuxserver.io/2018/10/29/new-hard-drive-rituals/  
 
 
 ## General Technology Blogs
