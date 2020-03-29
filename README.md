@@ -39,6 +39,9 @@ Repo for recording some helpful URLS and Bookmarks.
 * Linux source code - https://github.com/torvalds/linux  
 * Xv6, a simple Unix-like teaching operating system - https://pdos.csail.mit.edu/6.828/2014/xv6.html  
 
+## Database Management Systems
+* Postgres Tutorial - https://www.postgresqltutorial.com/  
+
 ## Distributed Systems
 * Raft Protocol github page - https://raft.github.io/   
 * Raft explanation with simulation - http://thesecretlivesofdata.com/raft/#intro  
@@ -51,7 +54,7 @@ Repo for recording some helpful URLS and Bookmarks.
 ## Maths for CS
 * Math for CS mit open course - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/  
 * Statiscs tutorial - https://stattrek.com/tutorials/ap-statistics-tutorial.aspx  
-
+* Discrete Mathematics notes - http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf  
 
 
 ## Machine Learning
@@ -108,6 +111,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * What I Learned in My First Year as a Solo Founder - https://tik.dev/lessons-learned   
 * Registry of open data on AWS - https://registry.opendata.aws/  
 * Netflix concurrency limits - https://github.com/Netflix/concurrency-limits   
+* There's real reasons for Linux to replace ifconfig, netstat, et al - https://utcc.utoronto.ca/~cks/space/blog/linux/ReplacingNetstatNotBad  
 
 
 ## General Technology Blogs
@@ -115,7 +119,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * MIT Technology Review - https://www.technologyreview.com/  
 * TechCrunch - https://techcrunch.com/  
 * Hacker News -  https://news.ycombinator.com/  
-
+* Dev tube - https://dev.tube/  
 
 ## Maths
 * Statistics 110: Probability - https://projects.iq.harvard.edu/stat110/youtube
