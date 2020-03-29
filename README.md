@@ -42,6 +42,10 @@ Repo for recording some helpful URLS and Bookmarks.
 ## Database Management Systems
 * Postgres Tutorial - https://www.postgresqltutorial.com/  
 
+## Computer Networks
+* 14 common network ports you should know - https://opensource.com/article/18/10/common-network-ports  
+
+
 ## Distributed Systems
 * Raft Protocol github page - https://raft.github.io/   
 * Raft explanation with simulation - http://thesecretlivesofdata.com/raft/#intro  
