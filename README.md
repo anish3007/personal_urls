@@ -41,6 +41,10 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ## Database Management Systems
 * Postgres Tutorial - https://www.postgresqltutorial.com/  
+* Postrgres on Mac - https://postgresapp.com/   
+* how-to-start-stop-restart-postgresql-server - https://tableplus.com/blog/2018/10/how-to-start-stop-restart-postgresql-server.html  
+* ACID Properties in DBMS - https://www.geeksforgeeks.org/acid-properties-in-dbms/  
+
 
 ## Computer Networks
 * 14 common network ports you should know - https://opensource.com/article/18/10/common-network-ports  
