@@ -63,6 +63,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Math for CS mit open course - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/  
 * Statiscs tutorial - https://stattrek.com/tutorials/ap-statistics-tutorial.aspx  
 * Discrete Mathematics notes - http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf  
+* Teach Yourself Logic - https://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf  
+* Set Theory and Algebra in CS - https://pdfs.semanticscholar.org/d106/6b6de601c1d7d5af25af3f7091bc7ad3ad51.pdf  
 
 
 ## Machine Learning
@@ -91,6 +93,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * neuralnetworksanddeeplearning - http://neuralnetworksanddeeplearning.com/  
 * Recurrent Neural Network - http://people.idsia.ch/~juergen/rnn.html  
 * Augmented Neural Network - https://distill.pub/2016/augmented-rnns/  
+* Intro to rnn - https://victorzhou.com/blog/intro-to-rnns/  
 * deep learning net - http://deeplearning.net/  
 * deeplearning book - http://www.deeplearningbook.org/  
 * Hugo Larochells lecture video - http://videolectures.net/hugo_larochelle/  
@@ -98,6 +101,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Colahs Blog - http://colah.github.io/  
 * Sebastian Ruder on word embedding - https://ruder.io/word-embeddings-1/   
 * Jason Yosinski - http://yosinski.com/deepvis  
+* Practical Deep Learning for Coders 2019 - https://www.fast.ai/2019/01/24/course-v3/   
+* An end to end implementation of a Machine Learning pipeline - https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html  
 
 
 ## Computer Science and Programming Blogs
@@ -120,6 +125,18 @@ Repo for recording some helpful URLS and Bookmarks.
 * Registry of open data on AWS - https://registry.opendata.aws/  
 * Netflix concurrency limits - https://github.com/Netflix/concurrency-limits   
 * There's real reasons for Linux to replace ifconfig, netstat, et al - https://utcc.utoronto.ca/~cks/space/blog/linux/ReplacingNetstatNotBad  
+* what-makes-a-good-conversation - http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html  
+* From Mac to Linux - https://shooting-unicorns.com/battlestation/from-mac-to-linux-the-setup-ive-grown-to-love/  
+* Things I Learnt from a Senior Software Engineer - https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html  
+* How To Build Minesweeper With JavaScript - https://mitchum.blog/how-to-build-minesweeper-with-javascript/  
+* Square’s Growth Framework for Engineers and Engineering Managers - https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/  
+* Don't Take Notes with a Laptop - https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/  
+* salesforce-for-engineers - https://retool.com/blog/salesforce-for-engineers/  
+* The lingua franca of LaTeX - https://increment.com/open-source/the-lingua-franca-of-latex/  
+* Founder Books - https://postmake.io/books  
+* Learn how to become a kick-ass engineering manager! - https://devtomanager.com/  
+* Books I Recommend - https://blog.jessfraz.com/post/books/  
+
 
 
 ## General Technology Blogs
