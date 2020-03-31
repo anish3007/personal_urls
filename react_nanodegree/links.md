@@ -14,10 +14,13 @@
 * Babel the javascript transpiler - https://github.com/babel/babel  
 * Javascript build tool - https://github.com/webpack/webpack  
 * resolving-eacces-permissions-errors-when-installing-packages-globally - https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally  
+* Create React App github page - https://github.com/facebook/create-react-app  
+* create react app release post - https://reactjs.org/blog/2016/07/22/create-apps-with-no-configuration.html  
+* create react app updates - https://reactjs.org/blog/2017/05/18/whats-new-in-create-react-app.html  
 
 
 ## Commands
-* sets up everything we need with zero configuration! - ``` npm install -g create-react-app ```
-
-
-
+* sets up everything we need with zero configuration! - ``` npm install -g create-react-app ```  
+* find out where global packages are installed - ``` npm list -g ```  
+* node version - ``` node --version ```  
+* npm version -  ``` npm --version ``` 
