@@ -17,6 +17,7 @@
 * Create React App github page - https://github.com/facebook/create-react-app  
 * create react app release post - https://reactjs.org/blog/2016/07/22/create-apps-with-no-configuration.html  
 * create react app updates - https://reactjs.org/blog/2017/05/18/whats-new-in-create-react-app.html  
+* components and props in react - https://reactjs.org/docs/components-and-props.html
 
 
 ## Commands
