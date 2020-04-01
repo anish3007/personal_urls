@@ -30,6 +30,11 @@ Repo for recording some helpful URLS and Bookmarks.
 ### Git
 * git log - https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/   
 
+### Rest API
+* Rest tutorial - https://stackify.com/rest-api-tutorial/  
+
+### React Redux
+* User Registration and login tutorial - https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example#index-html  
 
 ## Operating Systems
 * Linux Kernel Documentation - https://www.kernel.org/doc/  
@@ -54,6 +59,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Raft Protocol github page - https://raft.github.io/   
 * Raft explanation with simulation - http://thesecretlivesofdata.com/raft/#intro  
 * Course by Brown University - http://cs.brown.edu/courses/cs138/s15/    
+* Distributed Systems Reading Group - http://dsrg.pdos.csail.mit.edu/papers/  
+
 
 ## Computer Graphics
 * Princeton course - https://www.cs.princeton.edu/courses/archive/fall00/cs426/  
@@ -136,7 +143,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Founder Books - https://postmake.io/books  
 * Learn how to become a kick-ass engineering manager! - https://devtomanager.com/  
 * Books I Recommend - https://blog.jessfraz.com/post/books/  
-
+* Books for programmer - https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713%231713  
 
 
 ## General Technology Blogs
