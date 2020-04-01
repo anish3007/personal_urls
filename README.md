@@ -35,6 +35,12 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ### React Redux
 * User Registration and login tutorial - https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example#index-html  
+* Create a simple react app - https://medium.com/better-programming/creating-a-simple-app-with-react-js-f6aa88998952  
+* React Training - https://reacttraining.com/react-router/  
+* create react app doc - https://create-react-app.dev/docs/getting-started  
+* Intro to React - https://reactjs.org/tutorial/tutorial.html  
+* React Router Tutorial - https://github.com/reactjs/react-router-tutorial  
+* React Redux Tutorial - https://www.valentinog.com/blog/redux/  
 
 ## Operating Systems
 * Linux Kernel Documentation - https://www.kernel.org/doc/  
@@ -162,6 +168,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * so-you-want-to-learn-physics - https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics  
 * quantum-mechanics-for-high-school-students - https://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html   
 * Physics problems - https://physics.stackexchange.com/questions/20832/is-there-a-physics-puzzles-site-like-project-euler   
+* Physics visualization - https://landgreen.github.io/physics/  
 
 
 ## Other Educational
