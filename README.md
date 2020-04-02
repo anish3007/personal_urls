@@ -169,6 +169,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * quantum-mechanics-for-high-school-students - https://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html   
 * Physics problems - https://physics.stackexchange.com/questions/20832/is-there-a-physics-puzzles-site-like-project-euler   
 * Physics visualization - https://landgreen.github.io/physics/  
+* Physics travel guide - https://physicstravelguide.com/start  
+* A blog about the big ideas in physics, plus a few other things - https://gravityandlevity.wordpress.com/  
 
 
 ## Other Educational
