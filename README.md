@@ -5,6 +5,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Structure and Interpretation of Computer Programs - https://opendocs.github.io/sicp/sicp.pdf  
 * principled approach to system design and programming - https://urbit.org/blog/precepts  
 * Functional Programming For The Rest of Us - http://www.defmacro.org/2006/06/19/fp.html  
+* Best sites to learn to code - https://www.slant.co/topics/965/~best-websites-to-learn-to-code  
+
 
 ## Programming Language
 ### C Language   
