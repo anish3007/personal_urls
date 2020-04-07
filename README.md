@@ -152,6 +152,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Learn how to become a kick-ass engineering manager! - https://devtomanager.com/  
 * Books I Recommend - https://blog.jessfraz.com/post/books/  
 * Books for programmer - https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713%231713  
+* Mike Bostock blog - https://bost.ocks.org/mike/   
+
 
 
 ## General Technology Blogs
