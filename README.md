@@ -76,6 +76,10 @@ Repo for recording some helpful URLS and Bookmarks.
 * Princeton course - https://www.cs.princeton.edu/courses/archive/fall00/cs426/  
 * Stanford course - http://graphics.stanford.edu/courses/cs148-10-summer/  
 
+## Compiler
+* Crash course in compilers - https://increment.com/programming-languages/crash-course-in-compilers/  
+
+
 ## Maths for CS
 * Math for CS mit open course - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/  
 * Statiscs tutorial - https://stattrek.com/tutorials/ap-statistics-tutorial.aspx  
@@ -156,7 +160,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Books I Recommend - https://blog.jessfraz.com/post/books/  
 * Books for programmer - https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713%231713  
 * Mike Bostock blog - https://bost.ocks.org/mike/   
-
+* Kamran Ahmed Blog (Roadmap guy) - https://kamranahmed.info/  
 
 
 ## General Technology Blogs
