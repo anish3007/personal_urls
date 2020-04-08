@@ -182,6 +182,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Physics visualization - https://landgreen.github.io/physics/  
 * Physics travel guide - https://physicstravelguide.com/start  
 * A blog about the big ideas in physics, plus a few other things - https://gravityandlevity.wordpress.com/  
+* Why is Maxwell theory so hard to understand - https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf  
 
 
 ## Other Educational
