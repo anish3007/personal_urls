@@ -51,6 +51,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Linux from scratch - http://linuxfromscratch.org/  
 * Linux source code - https://github.com/torvalds/linux  
 * Xv6, a simple Unix-like teaching operating system - https://pdos.csail.mit.edu/6.828/2014/xv6.html  
+* System Programming course - http://cs241.cs.illinois.edu/coursebook/index.html   
+
 
 ## Database Management Systems
 * Postgres Tutorial - https://www.postgresqltutorial.com/  
@@ -80,6 +82,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Discrete Mathematics notes - http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf  
 * Teach Yourself Logic - https://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf  
 * Set Theory and Algebra in CS - https://pdfs.semanticscholar.org/d106/6b6de601c1d7d5af25af3f7091bc7ad3ad51.pdf  
+* HItchhikers guide to logical verification - https://github.com/blanchette/logical_verification_2020/raw/master/hitchhikers_guide.pdf  
 
 
 ## Machine Learning
