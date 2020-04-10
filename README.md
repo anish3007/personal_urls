@@ -161,6 +161,9 @@ Repo for recording some helpful URLS and Bookmarks.
 * Books for programmer - https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read/1713%231713  
 * Mike Bostock blog - https://bost.ocks.org/mike/   
 * Kamran Ahmed Blog (Roadmap guy) - https://kamranahmed.info/  
+* Coursers Courses sorted - https://www.classcentral.com/provider/coursera?sort=rating-up  
+* Coursers recommended courses - https://news.ycombinator.com/item?id=22826722  
+* Google site reliability books - https://landing.google.com/sre/books/  
 
 
 ## General Technology Blogs
