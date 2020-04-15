@@ -165,7 +165,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Coursers Courses sorted - https://www.classcentral.com/provider/coursera?sort=rating-up  
 * Coursers recommended courses - https://news.ycombinator.com/item?id=22826722  
 * Google site reliability books - https://landing.google.com/sre/books/  
-
+* Web Developmnent Blog - https://joelhooks.com/  
 
 ## General Technology Blogs
 * Wired - https://www.wired.com/  
@@ -176,7 +176,6 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ## Maths
 * Statistics 110: Probability - https://projects.iq.harvard.edu/stat110/youtube
-
 
 ## Physics
 * The Feynman Lectures - https://www.feynmanlectures.caltech.edu/  
@@ -194,6 +193,9 @@ Repo for recording some helpful URLS and Bookmarks.
 * Dean Yeong reading list - https://deanyeong.com/reading-notes/?utm_source=Quora&utm_medium=content&utm_campaign=quora+traffic  
 * 10 things every programmer should know for first job - http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/  
 * The key to good luck - http://nautil.us/blog/-the-key-to-good-luck-is-an-open-mind   
+
+## Yoga
+* Yoga in India - https://blog.yoga.in/2017/03/23/yoga-in-bangalore-a-brief-history/  
 
 ## Entertainment
 * https://goodmovieslist.com/   
