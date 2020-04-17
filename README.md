@@ -42,28 +42,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * create react app doc - https://create-react-app.dev/docs/getting-started  
 * Intro to React - https://reactjs.org/tutorial/tutorial.html  
 * React Router Tutorial - https://github.com/reactjs/react-router-tutorial  
-* React Redux Tutorial - https://www.valentinog.com/blog/redux/  
-
-## Operating Systems
-* Linux Kernel Documentation - https://www.kernel.org/doc/  
-* Linux Training - https://elixir.bootlin.com/linux/latest/source  
-* Linux Kernel Lab - https://linux-kernel-labs.github.io/refs/heads/master/index.html  
-* Linux Documentation - https://linux.die.net/  
-* Linux from scratch - http://linuxfromscratch.org/  
-* Linux source code - https://github.com/torvalds/linux  
-* Xv6, a simple Unix-like teaching operating system - https://pdos.csail.mit.edu/6.828/2014/xv6.html  
-* System Programming course - http://cs241.cs.illinois.edu/coursebook/index.html   
-
-
-## Database Management Systems
-* Postgres Tutorial - https://www.postgresqltutorial.com/  
-* Postrgres on Mac - https://postgresapp.com/   
-* how-to-start-stop-restart-postgresql-server - https://tableplus.com/blog/2018/10/how-to-start-stop-restart-postgresql-server.html  
-* ACID Properties in DBMS - https://www.geeksforgeeks.org/acid-properties-in-dbms/  
-
-
-## Computer Networks
-* 14 common network ports you should know - https://opensource.com/article/18/10/common-network-ports  
+* React Redux Tutorial - https://www.valentinog.com/blog/redux/   
 
 
 ## Distributed Systems
@@ -177,19 +156,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * Hacker News -  https://news.ycombinator.com/  
 * Dev tube - https://dev.tube/  
 
-## Maths
-* Statistics 110: Probability - https://projects.iq.harvard.edu/stat110/youtube
-
-## Physics
-* The Feynman Lectures - https://www.feynmanlectures.caltech.edu/  
-* so-you-want-to-learn-physics - https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics  
-* quantum-mechanics-for-high-school-students - https://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html   
-* Physics problems - https://physics.stackexchange.com/questions/20832/is-there-a-physics-puzzles-site-like-project-euler   
-* Physics visualization - https://landgreen.github.io/physics/  
-* Physics travel guide - https://physicstravelguide.com/start  
-* A blog about the big ideas in physics, plus a few other things - https://gravityandlevity.wordpress.com/  
-* Why is Maxwell theory so hard to understand - https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf  
-
 
 ## Other Educational
 * A protocol for dying - http://hintjens.com/blog:115  
@@ -197,15 +163,3 @@ Repo for recording some helpful URLS and Bookmarks.
 * 10 things every programmer should know for first job - http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/  
 * The key to good luck - http://nautil.us/blog/-the-key-to-good-luck-is-an-open-mind   
 
-## Yoga
-* Yoga in India - https://blog.yoga.in/2017/03/23/yoga-in-bangalore-a-brief-history/  
-
-## Entertainment
-* https://goodmovieslist.com/   
-* https://www.scoopwhoop.com/30-Hollywood-Movies-That-Should-Never-Be-Remade/?ref=social&type=fb&b=0&fbclid=IwAR1irI1XvJ9hvzeDW07BhKb0zNT_y47j8WgTlER64xv-_ZJL0qF7LatFdP0  
-
-* https://www.thebetterindia.com/51614/7-short-films-india-social-issues/
-
-* https://onedio.co/content/30-legendary-movies-you-should-watch-before-your-3-0-s-10290?utm_source=onedioco&utm_campaign=onedioco+-+30+Legendary+Movies+To+Watch+Before+Your+30s%21&utm_medium=facebook_paid&utm_content=-_Male_Desktop+Feed   
-
-* http://bharatkalyan97.blogspot.com/2013/05/upanishad-ganga-52-episodes-videos.html
