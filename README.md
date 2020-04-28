@@ -21,6 +21,7 @@ Repo for recording some helpful URLS and Bookmarks.
 
 
 ### Python
+* SICP in Python - https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html  
 * Python Cheatsheet - https://www.pythonforbeginners.com/cheatsheet/  
 * Best Python Resources for Beginners and Professionals - https://pythontips.com/2013/09/01/best-python-resources/  
 * python-speech-recognition - https://realpython.com/python-speech-recognition/  
