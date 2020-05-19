@@ -161,6 +161,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Hacker News -  https://news.ycombinator.com/  
 * Dev tube - https://dev.tube/  
 
+## Control Systems
+* simple control system - https://feltrac.co/control/2020/01/12/simple-control-systems.html  
 
 ## Other Educational
 * A protocol for dying - http://hintjens.com/blog:115  
