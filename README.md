@@ -169,4 +169,4 @@ Repo for recording some helpful URLS and Bookmarks.
 * Dean Yeong reading list - https://deanyeong.com/reading-notes/?utm_source=Quora&utm_medium=content&utm_campaign=quora+traffic  
 * 10 things every programmer should know for first job - http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/  
 * The key to good luck - http://nautil.us/blog/-the-key-to-good-luck-is-an-open-mind   
-
+* procastination - https://wolfgang.gassler.org/trick-my-procrastination-skills/  
