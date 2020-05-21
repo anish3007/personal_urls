@@ -151,7 +151,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Google site reliability books - https://landing.google.com/sre/books/  
 * Web Developmnent Blog - https://joelhooks.com/  
 * List of unofficial Api's - https://github.com/Rolstenhouse/unofficial-apis  
-
+* Tiny projects - https://tinyprojects.dev/  
 ## CS Tutorials
 * Future Skills NASSCOM - https://fslearning.nasscom.in/?utm_source=fslearninglaunch&utm_medium=Mailer&utm_campaign=FSlearning_launch  
 
