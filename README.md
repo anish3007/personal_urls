@@ -150,7 +150,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Coursers recommended courses - https://news.ycombinator.com/item?id=22826722  
 * Google site reliability books - https://landing.google.com/sre/books/  
 * Web Developmnent Blog - https://joelhooks.com/  
-
+* List of unofficial Api's - https://github.com/Rolstenhouse/unofficial-apis  
 
 ## CS Tutorials
 * Future Skills NASSCOM - https://fslearning.nasscom.in/?utm_source=fslearninglaunch&utm_medium=Mailer&utm_campaign=FSlearning_launch  
