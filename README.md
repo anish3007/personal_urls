@@ -113,6 +113,7 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ## Computer Science and Programming Blogs
 * Twitter Engineering Blog - https://engineering.twitter.com/  
+* Shopify Blog - https://engineering.shopify.com/blogs/engineering/what-is-nix  
 * Eli Bendersky's Blog - https://eli.thegreenplace.net/  
 * Anudeeps Blogs - https://blog.anudeep2011.com/  
 * Teach Yourself Programming in Ten Years - http://norvig.com/21-days.html  
