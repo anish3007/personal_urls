@@ -74,6 +74,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Set Theory and Algebra in CS - https://pdfs.semanticscholar.org/d106/6b6de601c1d7d5af25af3f7091bc7ad3ad51.pdf  
 * HItchhikers guide to logical verification - https://github.com/blanchette/logical_verification_2020/raw/master/hitchhikers_guide.pdf  
 * 2020 vision of linear algebra - https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm  
+* Calculus made easy - http://www.gutenberg.org/files/33283/33283-pdf.pdf  
 
 ## Machine Learning
 * Stanford ML course - https://see.stanford.edu/Course/CS229  
