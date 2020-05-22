@@ -155,6 +155,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Web Developmnent Blog - https://joelhooks.com/  
 * List of unofficial Api's - https://github.com/Rolstenhouse/unofficial-apis  
 * Tiny projects - https://tinyprojects.dev/  
+* Colins blog - https://www.solipsys.co.uk/new/ColinsBlog.html  
+
 ## CS Tutorials
 * Future Skills NASSCOM - https://fslearning.nasscom.in/?utm_source=fslearninglaunch&utm_medium=Mailer&utm_campaign=FSlearning_launch  
 
