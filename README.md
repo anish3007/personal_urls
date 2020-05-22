@@ -52,6 +52,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Course by Brown University - http://cs.brown.edu/courses/cs138/s15/    
 * Distributed Systems Reading Group - http://dsrg.pdos.csail.mit.edu/papers/  
 
+## RabbitMQ
+* intro - https://www.erlang-solutions.com/blog/an-introduction-to-rabbitmq-what-is-rabbitmq.html  
 
 ## Computer Graphics
 * Princeton course - https://www.cs.princeton.edu/courses/archive/fall00/cs426/  
