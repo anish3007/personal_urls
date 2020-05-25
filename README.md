@@ -170,6 +170,9 @@ Repo for recording some helpful URLS and Bookmarks.
 ## Control Systems
 * simple control system - https://feltrac.co/control/2020/01/12/simple-control-systems.html  
 
+## Marketing
+* Marketing for engineers - https://github.com/LisaDziuba/Marketing-for-Engineers  
+
 ## Other Educational
 * A protocol for dying - http://hintjens.com/blog:115  
 * Dean Yeong reading list - https://deanyeong.com/reading-notes/?utm_source=Quora&utm_medium=content&utm_campaign=quora+traffic  
