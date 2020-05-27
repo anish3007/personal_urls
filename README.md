@@ -183,3 +183,4 @@ Repo for recording some helpful URLS and Bookmarks.
 * The key to good luck - http://nautil.us/blog/-the-key-to-good-luck-is-an-open-mind   
 * procastination - https://wolfgang.gassler.org/trick-my-procrastination-skills/  
 * improve reading skills - https://medium.com/@manjotpahwa/10-reading-habits-that-changed-my-life-5c7673bc34bc  
+* Writing App - https://www.writenext.io/  
