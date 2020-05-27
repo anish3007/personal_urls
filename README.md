@@ -66,6 +66,9 @@ Repo for recording some helpful URLS and Bookmarks.
 * Keybase - https://keybase.io/blog/keybase-joins-zoom  
 * ssh agent - https://smallstep.com/blog/ssh-agent-explained/   
 
+## Cloud Computing
+* AWS Services - https://adayinthelifeof.nl/2020/05/20/aws.html  
+
 ## Maths for CS
 * Math for CS mit open course - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/  
 * Statiscs tutorial - https://stattrek.com/tutorials/ap-statistics-tutorial.aspx  
