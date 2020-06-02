@@ -6,7 +6,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * principled approach to system design and programming - https://urbit.org/blog/precepts  
 * Functional Programming For The Rest of Us - http://www.defmacro.org/2006/06/19/fp.html  
 * Best sites to learn to code - https://www.slant.co/topics/965/~best-websites-to-learn-to-code  
-
+* Teach Yourself Programming in Ten Years - http://norvig.com/21-days.html  
+* How to teach yourself programming - https://abstrusegoose.com/249  
 
 ## Programming Language
 ### C Language   
@@ -46,6 +47,11 @@ Repo for recording some helpful URLS and Bookmarks.
 * React Redux Tutorial - https://www.valentinog.com/blog/redux/   
 
 
+## Datastructures
+* Cracking the coding interview - http://www.crackingthecodinginterview.com/  
+* How to read content of GeeksforGeeks in an organized way - https://www.geeksforgeeks.org/how-to-read-content-of-geeksforgeeks-in-an-organized-way/   
+
+
 ## Distributed Systems
 * Raft Protocol github page - https://raft.github.io/   
 * Raft explanation with simulation - http://thesecretlivesofdata.com/raft/#intro  
@@ -71,6 +77,7 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ## Maths for CS
 * Math for CS mit open course - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/  
+* Mathematics for Computer Science - https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf  
 * Statiscs tutorial - https://stattrek.com/tutorials/ap-statistics-tutorial.aspx  
 * Discrete Mathematics notes - http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf  
 * Teach Yourself Logic - https://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf  
@@ -122,10 +129,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * Shopify Blog - https://engineering.shopify.com/blogs/engineering/what-is-nix  
 * Eli Bendersky's Blog - https://eli.thegreenplace.net/  
 * Anudeeps Blogs - https://blog.anudeep2011.com/  
-* Teach Yourself Programming in Ten Years - http://norvig.com/21-days.html  
-* How to teach yourself programming - https://abstrusegoose.com/249  
-* How to read content of GeeksforGeeks in an organized way - https://www.geeksforgeeks.org/how-to-read-content-of-geeksforgeeks-in-an-organized-way/   
-* Mathematics for Computer Science - https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf  
 * Google Developer - https://developers.google.com/  
 * How-I-Became-Better-Programmer(James Long - developer of prettier) - https://jlongster.com/How-I-Became-Better-Programmer   
 * Papers we love - https://paperswelove.org/  
