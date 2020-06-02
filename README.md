@@ -25,7 +25,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Python Cheatsheet - https://www.pythonforbeginners.com/cheatsheet/  
 * Best Python Resources for Beginners and Professionals - https://pythontips.com/2013/09/01/best-python-resources/  
 * python-speech-recognition - https://realpython.com/python-speech-recognition/  
-
+* Learn python the hard way - https://learnpythonthehardway.org/python3/  
 
 ### Markdown
 * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
