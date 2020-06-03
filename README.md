@@ -31,6 +31,10 @@ Repo for recording some helpful URLS and Bookmarks.
 * python-speech-recognition - https://realpython.com/python-speech-recognition/  
 * Learn python the hard way - https://learnpythonthehardway.org/python3/  
 
+### Web
+* Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
+
+
 ### Markdown
 * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
 
@@ -48,6 +52,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Intro to React - https://reactjs.org/tutorial/tutorial.html  
 * React Router Tutorial - https://github.com/reactjs/react-router-tutorial  
 * React Redux Tutorial - https://www.valentinog.com/blog/redux/   
+
 
 
 ## Datastructures
@@ -73,6 +78,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Raft explanation with simulation - http://thesecretlivesofdata.com/raft/#intro  
 * Course by Brown University - http://cs.brown.edu/courses/cs138/s15/    
 * Distributed Systems Reading Group - http://dsrg.pdos.csail.mit.edu/papers/  
+
 
 ## RabbitMQ
 * intro - https://www.erlang-solutions.com/blog/an-introduction-to-rabbitmq-what-is-rabbitmq.html  
@@ -187,7 +193,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Tiny projects - https://tinyprojects.dev/  
 * Colins blog - https://www.solipsys.co.uk/new/ColinsBlog.html  
 * How to become a hacker - https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html  
-
+* How to become a hacker(old) - http://www.catb.org/~esr/faqs/hacker-howto.html  
 
 ## CS Tutorials
 * Future Skills NASSCOM - https://fslearning.nasscom.in/?utm_source=fslearninglaunch&utm_medium=Mailer&utm_campaign=FSlearning_launch  
@@ -198,6 +204,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * TechCrunch - https://techcrunch.com/  
 * Hacker News -  https://news.ycombinator.com/  
 * Dev tube - https://dev.tube/  
+* Paul Graham's Essay - http://paulgraham.com/articles.html  
+
 
 ## Control Systems
 * simple control system - https://feltrac.co/control/2020/01/12/simple-control-systems.html  
