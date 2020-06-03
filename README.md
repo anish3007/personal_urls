@@ -10,6 +10,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * How to teach yourself programming - https://abstrusegoose.com/249  
 * Hackers: Heroes of the Computer Revolution - https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396
 * Code: The Hidden Language of Computer Hardware and Software - https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319  
+* Designing Data Intensive Application - https://dataintensive.net/  
 
 ## Programming Language
 ### C Language   
@@ -54,6 +55,19 @@ Repo for recording some helpful URLS and Bookmarks.
 * How to read content of GeeksforGeeks in an organized way - https://www.geeksforgeeks.org/how-to-read-content-of-geeksforgeeks-in-an-organized-way/   
 
 
+## Algorithms
+* Introduction to Algorithms(Cormen) - https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=zg_bs_491298_1?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
+* Algorithms(Sedgewick) - https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=zg_bs_491298_6?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
+* The Art of Computer Programming(Knuth) - https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_491298_8?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
+* The Algorithm Design Manual(skeina) - https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=zg_bs_491298_13?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
+* Elements of Programming Interviews: The Insiders' Guide - https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=zg_bs_491298_12?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
+* Grokking Algorithms: An illustrated guide for programmers and other curious people - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=zg_bs_491298_2?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
+
+## Object Oriented Design
+* Design Patterns: Elements of Reusable Object-Oriented Software - https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=zg_bs_491310_2?_encoding=UTF8&psc=1&refRID=7GV91R3FWVP7PZQEZ102  
+
+
+
 ## Distributed Systems
 * Raft Protocol github page - https://raft.github.io/   
 * Raft explanation with simulation - http://thesecretlivesofdata.com/raft/#intro  
@@ -73,6 +87,8 @@ Repo for recording some helpful URLS and Bookmarks.
 ## Computer Securtiy
 * Keybase - https://keybase.io/blog/keybase-joins-zoom  
 * ssh agent - https://smallstep.com/blog/ssh-agent-explained/   
+* Hacking: The Art of Exploitation - https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441  
+* The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography - https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=zg_bs_3875_5?_encoding=UTF8&psc=1&refRID=JWP5F3D42BN8KBD5BQEA  
 
 ## Cloud Computing
 * AWS Services - https://adayinthelifeof.nl/2020/05/20/aws.html  
@@ -125,6 +141,12 @@ Repo for recording some helpful URLS and Bookmarks.
 * Practical Deep Learning for Coders 2019 - https://www.fast.ai/2019/01/24/course-v3/   
 * An end to end implementation of a Machine Learning pipeline - https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html  
 
+## Programming Interviews
+* Leetcode - https://leetcode.com/  
+* Lambda Schools - https://lambdaschool.com/  
+
+## Devops
+* The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - https://www.amazon.com/dp/1942788290  
 
 ## Computer Science and Programming Blogs
 * Twitter Engineering Blog - https://engineering.twitter.com/  
@@ -164,6 +186,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * List of unofficial Api's - https://github.com/Rolstenhouse/unofficial-apis  
 * Tiny projects - https://tinyprojects.dev/  
 * Colins blog - https://www.solipsys.co.uk/new/ColinsBlog.html  
+* How to become a hacker - https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html  
+
 
 ## CS Tutorials
 * Future Skills NASSCOM - https://fslearning.nasscom.in/?utm_source=fslearninglaunch&utm_medium=Mailer&utm_campaign=FSlearning_launch  
