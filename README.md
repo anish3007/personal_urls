@@ -30,6 +30,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Best Python Resources for Beginners and Professionals - https://pythontips.com/2013/09/01/best-python-resources/  
 * python-speech-recognition - https://realpython.com/python-speech-recognition/  
 * Learn python the hard way - https://learnpythonthehardway.org/python3/  
+* Python docs tutorials - https://docs.python.org/3/tutorial/  
 
 ### Web
 * Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
