@@ -34,7 +34,7 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ### Web
 * Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
-
+* Unix and internet fundamentals - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html  
 
 ### Markdown
 * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
