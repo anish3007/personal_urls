@@ -8,6 +8,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Best sites to learn to code - https://www.slant.co/topics/965/~best-websites-to-learn-to-code  
 * Teach Yourself Programming in Ten Years - http://norvig.com/21-days.html  
 * How to teach yourself programming - https://abstrusegoose.com/249  
+* Hackers: Heroes of the Computer Revolution - https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396
+* Code: The Hidden Language of Computer Hardware and Software - https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319  
 
 ## Programming Language
 ### C Language   
