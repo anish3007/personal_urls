@@ -31,6 +31,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * python-speech-recognition - https://realpython.com/python-speech-recognition/  
 * Learn python the hard way - https://learnpythonthehardway.org/python3/  
 * Python docs tutorials - https://docs.python.org/3/tutorial/  
+* Python Debugging - https://martinheinz.dev/blog/24  
 
 ### Web
 * Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
@@ -208,7 +209,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Hacker News -  https://news.ycombinator.com/  
 * Dev tube - https://dev.tube/  
 * Paul Graham's Essay - http://paulgraham.com/articles.html  
-
+* Cal Newport blog - https://www.calnewport.com/blog/  
 
 ## Control Systems
 * simple control system - https://feltrac.co/control/2020/01/12/simple-control-systems.html  
