@@ -161,6 +161,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - https://www.amazon.com/dp/1942788290  
 
 ## Computer Science and Programming Blogs
+* Stack Overflow Blog - https://stackoverflow.blog/  
 * Twitter Engineering Blog - https://engineering.twitter.com/  
 * Shopify Blog - https://engineering.shopify.com/blogs/engineering/what-is-nix  
 * Eli Bendersky's Blog - https://eli.thegreenplace.net/  
