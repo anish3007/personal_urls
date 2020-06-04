@@ -15,6 +15,7 @@ Repo for recording some helpful URLS and Bookmarks.
 ## Programming Language
 ### C Language   
 * Bell Labs C Manual - https://www.bell-labs.com/usr/dmr/www/cman.pdf  
+* C internals - http://www.avabodh.com/cin/cin.html  
 
 ### Go Programming Language  
 * Introduction to Go - https://gobyexample.com/   
