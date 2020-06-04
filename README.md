@@ -55,7 +55,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * React Router Tutorial - https://github.com/reactjs/react-router-tutorial  
 * React Redux Tutorial - https://www.valentinog.com/blog/redux/   
 
-
+### Java
+* How to write a toy JVM - https://zserge.com/posts/jvm/  
 
 ## Datastructures
 * Cracking the coding interview - http://www.crackingthecodinginterview.com/  
