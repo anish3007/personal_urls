@@ -100,6 +100,8 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ## Cloud Computing
 * AWS Services - https://adayinthelifeof.nl/2020/05/20/aws.html  
+* Why is kubernetes getting so popular - https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/  
+
 
 ## Maths for CS
 * Math for CS mit open course - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/  
