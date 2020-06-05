@@ -59,6 +59,10 @@ Repo for recording some helpful URLS and Bookmarks.
 ### Java
 * How to write a toy JVM - https://zserge.com/posts/jvm/  
 
+### Scala
+* Hands on Scala - https://www.handsonscala.com/   
+
+
 ## Datastructures
 * Cracking the coding interview - http://www.crackingthecodinginterview.com/  
 * How to read content of GeeksforGeeks in an organized way - https://www.geeksforgeeks.org/how-to-read-content-of-geeksforgeeks-in-an-organized-way/   
