@@ -103,6 +103,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * ssh agent - https://smallstep.com/blog/ssh-agent-explained/   
 * Hacking: The Art of Exploitation - https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441  
 * The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography - https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=zg_bs_3875_5?_encoding=UTF8&psc=1&refRID=JWP5F3D42BN8KBD5BQEA  
+* Penetration Testing Lab - https://www.hackthebox.eu/  
+
 
 ## Cloud Computing
 * AWS Services - https://adayinthelifeof.nl/2020/05/20/aws.html  
