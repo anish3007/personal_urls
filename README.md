@@ -59,9 +59,9 @@ Repo for recording some helpful URLS and Bookmarks.
 ### Java
 * How to write a toy JVM - https://zserge.com/posts/jvm/  
 
-### Scala
+### Other programming language
 * Hands on Scala - https://www.handsonscala.com/   
-
+* History of clojure - https://clojure.org/about/history  
 
 ## Datastructures
 * Cracking the coding interview - http://www.crackingthecodinginterview.com/  
