@@ -209,6 +209,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Colins blog - https://www.solipsys.co.uk/new/ColinsBlog.html  
 * How to become a hacker - https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html  
 * How to become a hacker(old) - http://www.catb.org/~esr/faqs/hacker-howto.html  
+* Programming as theory building - https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1  
+
 
 ## CS Tutorials
 * Future Skills NASSCOM - https://fslearning.nasscom.in/?utm_source=fslearninglaunch&utm_medium=Mailer&utm_campaign=FSlearning_launch  
