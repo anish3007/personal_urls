@@ -16,6 +16,8 @@ Repo for recording some helpful URLS and Bookmarks.
 ### C Language   
 * Bell Labs C Manual - https://www.bell-labs.com/usr/dmr/www/cman.pdf  
 * C internals - http://www.avabodh.com/cin/cin.html  
+* A gentle introduction to pointers using the C - https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/  
+
 
 ### Go Programming Language  
 * Introduction to Go - https://gobyexample.com/   
