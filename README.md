@@ -162,6 +162,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Practical Deep Learning for Coders 2019 - https://www.fast.ai/2019/01/24/course-v3/   
 * An end to end implementation of a Machine Learning pipeline - https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html  
 * Papers with code - https://paperswithcode.com/  
+* Explaining RNNs without neural networks - https://explained.ai/rnn/index.html  
+* CNN Explained - https://poloclub.github.io/cnn-explainer/  
 
 
 ## Programming Interviews
@@ -218,6 +220,10 @@ Repo for recording some helpful URLS and Bookmarks.
 * Programming as theory building - https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1  
 
 
+## Bitcoins
+* Butcoins from scratch - https://monokh.com/posts/bitcoin-from-scratch-part-1  
+
+
 ## CS Tutorials
 * Future Skills NASSCOM - https://fslearning.nasscom.in/?utm_source=fslearninglaunch&utm_medium=Mailer&utm_campaign=FSlearning_launch  
 
@@ -245,3 +251,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * improve reading skills - https://medium.com/@manjotpahwa/10-reading-habits-that-changed-my-life-5c7673bc34bc  
 * Writing App - https://www.writenext.io/  
 * Hindi poetry - http://kavitakosh.org/  
+* Math book for teenagers - https://news.ycombinator.com/item?id=23711942  
+
+
