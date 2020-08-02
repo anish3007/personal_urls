@@ -169,6 +169,9 @@ Repo for recording some helpful URLS and Bookmarks.
 ## Programming Interviews
 * Leetcode - https://leetcode.com/  
 * Lambda Schools - https://lambdaschool.com/  
+* Hiring without whiteboards - https://github.com/poteto/hiring-without-whiteboards
+* 60 interviews in 30 days - https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky  
+
 
 ## Devops
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - https://www.amazon.com/dp/1942788290  
@@ -226,6 +229,9 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ## CS Tutorials
 * Future Skills NASSCOM - https://fslearning.nasscom.in/?utm_source=fslearninglaunch&utm_medium=Mailer&utm_campaign=FSlearning_launch  
+* CS Unplugged - https://csunplugged.org/en/  
+
+
 
 ## General Technology Blogs
 * Wired - https://www.wired.com/  
@@ -252,5 +258,5 @@ Repo for recording some helpful URLS and Bookmarks.
 * Writing App - https://www.writenext.io/  
 * Hindi poetry - http://kavitakosh.org/  
 * Math book for teenagers - https://news.ycombinator.com/item?id=23711942  
-
+* Best Softskill resources - https://news.ycombinator.com/item?id=9987495  
 
