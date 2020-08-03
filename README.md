@@ -39,6 +39,8 @@ Repo for recording some helpful URLS and Bookmarks.
 ### Web
 * Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
 * Unix and internet fundamentals - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html  
+* Learning Javascript through video lectures - https://catonmat.net/learning-javascript-programming-language-through-video-lectures  
+* Javascript, the worlds most misunderstood language - http://crockford.com/javascript/  
 
 ### Markdown
 * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
@@ -124,6 +126,9 @@ Repo for recording some helpful URLS and Bookmarks.
 * HItchhikers guide to logical verification - https://github.com/blanchette/logical_verification_2020/raw/master/hitchhikers_guide.pdf  
 * 2020 vision of linear algebra - https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm  
 * Calculus made easy - http://www.gutenberg.org/files/33283/33283-pdf.pdf  
+
+# Graph in CS 
+* Problem solving using graph traversals - https://www.slideshare.net/slidarko/problemsolving-using-graph-traversals-searching-scoring-ranking-and-recommendation  
 
 ## Machine Learning
 * Stanford ML course - https://see.stanford.edu/Course/CS229  
@@ -230,6 +235,16 @@ Repo for recording some helpful URLS and Bookmarks.
 ## CS Tutorials
 * Future Skills NASSCOM - https://fslearning.nasscom.in/?utm_source=fslearninglaunch&utm_medium=Mailer&utm_campaign=FSlearning_launch  
 * CS Unplugged - https://csunplugged.org/en/  
+
+## System Design
+* Youtube Architecture - http://highscalability.com/youtube-architecture   
+* Amazon Architecture - http://highscalability.com/amazon-architecture  
+* Google Architecture - http://highscalability.com/google-architecture  
+* Netflix Architecture - http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html  
+* Whatsapp Architecture - http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html  
+* Facebook - http://highscalability.com/blog/category/facebook  
+* Instagram Acrchitecture - http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html  
+* Scalability Blogs - http://highscalability.com/blog/category/blog  
 
 
 
