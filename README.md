@@ -126,6 +126,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * HItchhikers guide to logical verification - https://github.com/blanchette/logical_verification_2020/raw/master/hitchhikers_guide.pdf  
 * 2020 vision of linear algebra - https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm  
 * Calculus made easy - http://www.gutenberg.org/files/33283/33283-pdf.pdf  
+* Fundamental Theorems in Maths - http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf  
+
 
 # Graph in CS 
 * Problem solving using graph traversals - https://www.slideshare.net/slidarko/problemsolving-using-graph-traversals-searching-scoring-ranking-and-recommendation  
