@@ -127,10 +127,21 @@ Repo for recording some helpful URLS and Bookmarks.
 * 2020 vision of linear algebra - https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm  
 * Calculus made easy - http://www.gutenberg.org/files/33283/33283-pdf.pdf  
 * Fundamental Theorems in Maths - http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf  
+* Bayes Theorem framework for critical thinking - https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html   
+
 
 
 # Graph in CS 
 * Problem solving using graph traversals - https://www.slideshare.net/slidarko/problemsolving-using-graph-traversals-searching-scoring-ranking-and-recommendation  
+
+
+## Statistical Learning
+* Introduction to Statistical Learning - http://faculty.marshall.usc.edu/gareth-james/ISL/  
+* Elements of Statistical Learning - https://web.stanford.edu/~hastie/Papers/ESLII.pdf  
+* Statistical Learning Course - https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning 
+* Intermediate Statistics(Larry Wasserman) - https://www.youtube.com/playlist?list=PLJPW8OTey_OZk6K_9QLpguoPg_Ip3GkW_  
+* Statictical Learning resource - https://news.ycombinator.com/item?id=24052330  
+
 
 ## Machine Learning
 * Stanford ML course - https://see.stanford.edu/Course/CS229  
@@ -149,6 +160,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * ConvnetJS demo - https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html 
 * Neural Network playground - http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.99027&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
 * Kaggle Dataset - https://www.kaggle.com/datasets  
+ 
 
 
 ## Deep Learning 
