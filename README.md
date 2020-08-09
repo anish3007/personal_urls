@@ -242,7 +242,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * How to become a hacker - https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html  
 * How to become a hacker(old) - http://www.catb.org/~esr/faqs/hacker-howto.html  
 * Programming as theory building - https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1  
-
+* Levelup as a developer - https://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/  
 
 ## Bitcoins
 * Butcoins from scratch - https://monokh.com/posts/bitcoin-from-scratch-part-1  
