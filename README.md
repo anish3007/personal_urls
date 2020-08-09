@@ -41,6 +41,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Unix and internet fundamentals - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html  
 * Learning Javascript through video lectures - https://catonmat.net/learning-javascript-programming-language-through-video-lectures  
 * Javascript, the worlds most misunderstood language - http://crockford.com/javascript/  
+* Why web development is so complicated -  https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
+
 
 ### Markdown
 * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
