@@ -35,6 +35,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Learn python the hard way - https://learnpythonthehardway.org/python3/  
 * Python docs tutorials - https://docs.python.org/3/tutorial/  
 * Python Debugging - https://martinheinz.dev/blog/24  
+* Python for datascience - https://github.com/blobcity/python-for-data-science  
+
 
 ### Web
 * Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
@@ -243,6 +245,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * How to become a hacker(old) - http://www.catb.org/~esr/faqs/hacker-howto.html  
 * Programming as theory building - https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1  
 * Levelup as a developer - https://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/  
+* Rob Pikes 5 rules of programming - http://users.ece.utexas.edu/~adnan/pike.html   
+
 
 ## Bitcoins
 * Butcoins from scratch - https://monokh.com/posts/bitcoin-from-scratch-part-1  
