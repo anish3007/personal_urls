@@ -141,7 +141,8 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ## Statistical Learning
 * Introduction to Statistical Learning - http://faculty.marshall.usc.edu/gareth-james/ISL/  
-* Elements of Statistical Learning - https://web.stanford.edu/~hastie/Papers/ESLII.pdf  
+* Elements of Statistical Learning(Homepage) - https://web.stanford.edu/~hastie/ElemStatLearn/   
+* Elements of Statistical Learning(Download) - https://web.stanford.edu/~hastie/Papers/ESLII.pdf  
 * Statistical Learning Course - https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning 
 * Intermediate Statistics(Larry Wasserman) - https://www.youtube.com/playlist?list=PLJPW8OTey_OZk6K_9QLpguoPg_Ip3GkW_  
 * Statictical Learning resource - https://news.ycombinator.com/item?id=24052330  
@@ -165,7 +166,10 @@ Repo for recording some helpful URLS and Bookmarks.
 * Neural Network playground - http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.99027&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
 * Kaggle Dataset - https://www.kaggle.com/datasets  
 * Academic Torrent reaserch datasets - https://academictorrents.com/  
-
+* Transitioning from Software Engineering to AI - https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-ai-d41e48403447  
+* Tutorials by Sentdex - https://pythonprogramming.net/data-analysis-tutorials/  
+* Learning AI/ML the hard way - https://dzone.com/articles/learning-ai-ml-the-hard-way  
+* Resources for AI/ML Learning (HN Disucssion) - https://news.ycombinator.com/item?id=14998352   
 
 ## Deep Learning 
 * Convolution Neural Network for visual recognition - http://cs231n.github.io/   
@@ -190,6 +194,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Fast.ai - https://www.fast.ai/  
 * Practical Deep Learning for coders - https://course.fast.ai/  
 * Andrew Ng's new deep learning specialization - https://www.deeplearning.ai/  
+* Andrew NG's coursera tutorials - https://www.coursera.org/learn/machine-learning  
+
 
 
 ## Programming Interviews
