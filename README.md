@@ -176,7 +176,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Augmented Neural Network - https://distill.pub/2016/augmented-rnns/  
 * Intro to rnn - https://victorzhou.com/blog/intro-to-rnns/  
 * deep learning net - http://deeplearning.net/  
-* deeplearning book - http://www.deeplearningbook.org/  
+* deeplearning book by Goodfellow, Bengio, Courville - http://www.deeplearningbook.org/  
 * Hugo Larochells lecture video - http://videolectures.net/hugo_larochelle/  
 * Karpathy Blog - http://karpathy.github.io/  
 * Colahs Blog - http://colah.github.io/  
@@ -187,6 +187,9 @@ Repo for recording some helpful URLS and Bookmarks.
 * Papers with code - https://paperswithcode.com/  
 * Explaining RNNs without neural networks - https://explained.ai/rnn/index.html  
 * CNN Explained - https://poloclub.github.io/cnn-explainer/  
+* Fast.ai - https://www.fast.ai/  
+* Practical Deep Learning for coders - https://course.fast.ai/  
+* Andrew Ng's new deep learning specialization - https://www.deeplearning.ai/  
 
 
 ## Programming Interviews
@@ -276,6 +279,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Dev tube - https://dev.tube/  
 * Paul Graham's Essay - http://paulgraham.com/articles.html  
 * Cal Newport blog - https://www.calnewport.com/blog/  
+* Rygs Blog(Papers I like) - https://fgiesen.wordpress.com/category/papers/  
 
 ## Control Systems
 * simple control system - https://feltrac.co/control/2020/01/12/simple-control-systems.html  
