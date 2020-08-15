@@ -5,27 +5,29 @@ Repo for recording some helpful URLS and Bookmarks.
 * Structure and Interpretation of Computer Programs - https://opendocs.github.io/sicp/sicp.pdf  
 * principled approach to system design and programming - https://urbit.org/blog/precepts  
 * Functional Programming For The Rest of Us - http://www.defmacro.org/2006/06/19/fp.html  
-* Best sites to learn to code - https://www.slant.co/topics/965/~best-websites-to-learn-to-code  
 * Teach Yourself Programming in Ten Years - http://norvig.com/21-days.html  
 * How to teach yourself programming - https://abstrusegoose.com/249  
 * Hackers: Heroes of the Computer Revolution - https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396
 * Code: The Hidden Language of Computer Hardware and Software - https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319  
 * Designing Data Intensive Application - https://dataintensive.net/  
 * Google for education - https://edu.google.com/?modal_active=none  
+* Best sites to learn to code - https://www.slant.co/topics/965/~best-websites-to-learn-to-code 
 
 
 ## Website for Computer Science
 * Stanford Engineering Everywhere : https://see.stanford.edu/
 * MIT OpenCourseWare : https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science
+* CS OSSU : https://github.com/ossu/computer-science
+* hackr.io : https://hackr.io/
 * GitHub : https://github.com/
 * W3Schools : http://www.w3schools.com/
 * Codecademy : https://www.codecademy.com/catalog
-* CS OSSU : https://github.com/ossu/computer-science
+* Google TechDev Guide : https://techdevguide.withgoogle.com/
 * CS Great Readings : https://github.com/ossu/computer-science/blob/master/extras/readings.md
 * Mega Project list : https://github.com/karan/Projects
 * CS Bottoms-up : http://www.bottomupcs.com/index.xhtml
-* hackr.io : https://hackr.io/
-* Google TechDev Guide : https://techdevguide.withgoogle.com/
+
+
 
 ## Programming Language
 
@@ -37,6 +39,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * C internals - http://www.avabodh.com/cin/cin.html  
 * A gentle introduction to pointers using the C - https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/  
 
+### Java
+* How to write a toy JVM - https://zserge.com/posts/jvm/ 
 
 ### Go Programming Language  
 * Introduction to Go - https://gobyexample.com/   
@@ -47,22 +51,24 @@ Repo for recording some helpful URLS and Bookmarks.
 
 
 ### Python
-* SICP in Python - https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html  
-* Python Cheatsheet - https://www.pythonforbeginners.com/cheatsheet/  
-* Best Python Resources for Beginners and Professionals - https://pythontips.com/2013/09/01/best-python-resources/  
-* python-speech-recognition - https://realpython.com/python-speech-recognition/  
 * Learn python the hard way - https://learnpythonthehardway.org/python3/  
 * Python docs tutorials - https://docs.python.org/3/tutorial/  
+* Python Cheatsheet - https://www.pythonforbeginners.com/cheatsheet/  
+* SICP in Python - https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html  
+* Best Python Resources for Beginners and Professionals - https://pythontips.com/2013/09/01/best-python-resources/  
 * Python Debugging - https://martinheinz.dev/blog/24  
 * Python for datascience - https://github.com/blobcity/python-for-data-science  
+* python-speech-recognition - https://realpython.com/python-speech-recognition/  
 
 
-### Web
-* Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
-* Unix and internet fundamentals - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html  
-* Learning Javascript through video lectures - https://catonmat.net/learning-javascript-programming-language-through-video-lectures  
-* Javascript, the worlds most misunderstood language - http://crockford.com/javascript/  
-* Why web development is so complicated -  https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
+### React
+* User Registration and login tutorial - https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example#index-html  
+* Create a simple react app - https://medium.com/better-programming/creating-a-simple-app-with-react-js-f6aa88998952  
+* React Training - https://reacttraining.com/react-router/  
+* create react app doc - https://create-react-app.dev/docs/getting-started  
+* Intro to React - https://reactjs.org/tutorial/tutorial.html  
+* React Router Tutorial - https://github.com/reactjs/react-router-tutorial  
+* React Redux Tutorial - https://www.valentinog.com/blog/redux/   
 
 
 ### Markdown
@@ -74,21 +80,10 @@ Repo for recording some helpful URLS and Bookmarks.
 ### Rest API
 * Rest tutorial - https://stackify.com/rest-api-tutorial/  
 
-### React Redux
-* User Registration and login tutorial - https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example#index-html  
-* Create a simple react app - https://medium.com/better-programming/creating-a-simple-app-with-react-js-f6aa88998952  
-* React Training - https://reacttraining.com/react-router/  
-* create react app doc - https://create-react-app.dev/docs/getting-started  
-* Intro to React - https://reactjs.org/tutorial/tutorial.html  
-* React Router Tutorial - https://github.com/reactjs/react-router-tutorial  
-* React Redux Tutorial - https://www.valentinog.com/blog/redux/   
-
-### Java
-* How to write a toy JVM - https://zserge.com/posts/jvm/  
-
 ### Other programming language
 * Hands on Scala - https://www.handsonscala.com/   
 * History of clojure - https://clojure.org/about/history  
+
 
 ## Datastructures
 * Cracking the coding interview - http://www.crackingthecodinginterview.com/  
@@ -108,12 +103,32 @@ Repo for recording some helpful URLS and Bookmarks.
 * Design Patterns: Elements of Reusable Object-Oriented Software - https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=zg_bs_491310_2?_encoding=UTF8&psc=1&refRID=7GV91R3FWVP7PZQEZ102  
 
 
+## System Design
+* System Design Primer - https://github.com/donnemartin/system-design-primer 
+* How I write Backends : https://github.com/fpereiro/backendlore 
+* Youtube Architecture - http://highscalability.com/youtube-architecture   
+* Amazon Architecture - http://highscalability.com/amazon-architecture  
+* Google Architecture - http://highscalability.com/google-architecture  
+* Netflix Architecture - http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html  
+* Whatsapp Architecture - http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html  
+* Facebook - http://highscalability.com/blog/category/facebook  
+* Instagram Acrchitecture - http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html  
+* Scalability Blogs - http://highscalability.com/blog/category/blog  
+
+
+## Web Programming
+* Why web development is so complicated -  https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
+* Learning Javascript through video lectures - https://catonmat.net/learning-javascript-programming-language-through-video-lectures 
+* Javascript, the worlds most misunderstood language - http://crockford.com/javascript/  
+* Unix and internet fundamentals - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html  
+* Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
+
 
 ## Distributed Systems
+* Course by Brown University - http://cs.brown.edu/courses/cs138/s15/ 
+* Distributed Systems Reading Group - http://dsrg.pdos.csail.mit.edu/papers/  
 * Raft Protocol github page - https://raft.github.io/   
 * Raft explanation with simulation - http://thesecretlivesofdata.com/raft/#intro  
-* Course by Brown University - http://cs.brown.edu/courses/cs138/s15/    
-* Distributed Systems Reading Group - http://dsrg.pdos.csail.mit.edu/papers/  
 
 
 ## RabbitMQ
@@ -138,6 +153,7 @@ Repo for recording some helpful URLS and Bookmarks.
 ## Cloud Computing
 * AWS Services - https://adayinthelifeof.nl/2020/05/20/aws.html  
 * Why is kubernetes getting so popular - https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/  
+
 
 
 ## Maths for CS
@@ -231,6 +247,7 @@ Repo for recording some helpful URLS and Bookmarks.
 ## Tools
 * pdf editor - https://simpdf.com/  
 
+
 ## Computer Science and Programming Blogs
 * Stack Overflow Blog - https://stackoverflow.blog/  
 * Twitter Engineering Blog - https://engineering.twitter.com/  
@@ -284,18 +301,7 @@ Repo for recording some helpful URLS and Bookmarks.
 ## CS Tutorials
 * Future Skills NASSCOM - https://fslearning.nasscom.in/?utm_source=fslearninglaunch&utm_medium=Mailer&utm_campaign=FSlearning_launch  
 * CS Unplugged - https://csunplugged.org/en/  
-
-## System Design
-* Youtube Architecture - http://highscalability.com/youtube-architecture   
-* Amazon Architecture - http://highscalability.com/amazon-architecture  
-* Google Architecture - http://highscalability.com/google-architecture  
-* Netflix Architecture - http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html  
-* Whatsapp Architecture - http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html  
-* Facebook - http://highscalability.com/blog/category/facebook  
-* Instagram Acrchitecture - http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html  
-* Scalability Blogs - http://highscalability.com/blog/category/blog  
-
-
+ 
 
 ## General Technology Blogs
 * Wired - https://www.wired.com/  
