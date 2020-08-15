@@ -11,6 +11,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Hackers: Heroes of the Computer Revolution - https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396
 * Code: The Hidden Language of Computer Hardware and Software - https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319  
 * Designing Data Intensive Application - https://dataintensive.net/  
+* Google for education - https://edu.google.com/?modal_active=none  
+
 
 ## Website for Computer Science
 * Stanford Engineering Everywhere : https://see.stanford.edu/
@@ -23,7 +25,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Mega Project list : https://github.com/karan/Projects
 * CS Bottoms-up : http://www.bottomupcs.com/index.xhtml
 * hackr.io : https://hackr.io/
-
+* Google TechDev Guide : https://techdevguide.withgoogle.com/
 
 ## Programming Language
 
