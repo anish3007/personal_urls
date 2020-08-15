@@ -1,0 +1,2 @@
+## Intro to Computer Science
+https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH : Harvard’s CS50 class: best high-quality online course for getting started to learning Computer Science. It explains the most fundamental topics in Computer Science: Computational Thinking, Arrays, Memory, Data Structures, Web Programming, and Databases. Recommended to check this out if you are used to learning content by videos.
