@@ -18,6 +18,10 @@ Repo for recording some helpful URLS and Bookmarks.
 * GitHub : https://github.com/
 * W3Schools : http://www.w3schools.com/
 * Codecademy : https://www.codecademy.com/catalog
+* CS OSSU : https://github.com/ossu/computer-science
+* CS Great Readings : https://github.com/ossu/computer-science/blob/master/extras/readings.md
+* Mega Project list : https://github.com/karan/Projects
+
 
 ## Programming Language
 ### C Language   
