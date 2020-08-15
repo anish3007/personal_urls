@@ -22,6 +22,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * GitHub : https://github.com/
 * W3Schools : http://www.w3schools.com/
 * Codecademy : https://www.codecademy.com/catalog
+* Freecodecamp : https://www.freecodecamp.org/learn
 * Google TechDev Guide : https://techdevguide.withgoogle.com/
 * CS Great Readings : https://github.com/ossu/computer-science/blob/master/extras/readings.md
 * Mega Project list : https://github.com/karan/Projects
@@ -29,10 +30,7 @@ Repo for recording some helpful URLS and Bookmarks.
 
 
 
-## Programming Language
-
-### Android Development
-* Udacity course in collaboration with Google - https://www.udacity.com/course/android-basics-user-interface--ud834  
+## Programming Language 
 
 ### C Language   
 * Bell Labs C Manual - https://www.bell-labs.com/usr/dmr/www/cman.pdf  
@@ -52,13 +50,29 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ### Python
 * Learn python the hard way - https://learnpythonthehardway.org/python3/  
-* Python docs tutorials - https://docs.python.org/3/tutorial/  
+* Google's Python class - https://developers.google.com/edu/python/  
+* Official Python docs tutorials - https://docs.python.org/3/tutorial/  
+* Python tutorial for beginners - https://www.youtube.com/watch?v=_uQrJ0TkZlc  
+* Automate Boring stuff with Python - http://automatetheboringstuff.com/  
 * Python Cheatsheet - https://www.pythonforbeginners.com/cheatsheet/  
 * SICP in Python - https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html  
 * Best Python Resources for Beginners and Professionals - https://pythontips.com/2013/09/01/best-python-resources/  
 * Python Debugging - https://martinheinz.dev/blog/24  
 * Python for datascience - https://github.com/blobcity/python-for-data-science  
 * python-speech-recognition - https://realpython.com/python-speech-recognition/  
+
+
+### Javascript
+* The Javascript Tutorial - https://javascript.info/  
+* Freecodecamp Javascript tutorial - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/  
+* MDN Javascript guide - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide  
+* You Dont Know JS Yet - https://github.com/getify/You-Dont-Know-JS/blob/master/README.md  
+* Mosh Javascript tutorial - https://www.youtube.com/watch?v=W6NZfCO5SIk  
+* Javascript Design Pattern - https://addyosmani.com/resources/essentialjsdesignpatterns/book/  
+
+
+### Android Development
+* Udacity course in collaboration with Google - https://www.udacity.com/course/android-basics-user-interface--ud834 
 
 
 ### React
