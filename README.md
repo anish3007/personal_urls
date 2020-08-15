@@ -72,7 +72,11 @@ Repo for recording some helpful URLS and Bookmarks.
 
 
 ### Android Development
+* Vogella Android development tutorial - https://www.vogella.com/tutorials/android.html
+* Android App Development by Stanford - http://web.stanford.edu/class/cs193a/videos.shtml
 * Udacity course in collaboration with Google - https://www.udacity.com/course/android-basics-user-interface--ud834 
+* Training for Android Developer - https://developer.android.com/guide
+* Pluralsight Android Training - https://pluralsight.pxf.io/e5E5r
 
 
 ### React
