@@ -12,6 +12,13 @@ Repo for recording some helpful URLS and Bookmarks.
 * Code: The Hidden Language of Computer Hardware and Software - https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319  
 * Designing Data Intensive Application - https://dataintensive.net/  
 
+## Website for Computer Science
+* Stanford Engineering Everywhere : https://see.stanford.edu/
+* MIT OpenCourseWare : https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science
+* GitHub : https://github.com/
+* W3Schools : http://www.w3schools.com/
+* Codecademy : https://www.codecademy.com/catalog
+
 ## Programming Language
 ### C Language   
 * Bell Labs C Manual - https://www.bell-labs.com/usr/dmr/www/cman.pdf  
