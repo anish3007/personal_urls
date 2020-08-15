@@ -23,7 +23,13 @@ Repo for recording some helpful URLS and Bookmarks.
 * Mega Project list : https://github.com/karan/Projects
 * CS Bottoms-up : http://www.bottomupcs.com/index.xhtml
 
+
+
 ## Programming Language
+
+### Android Development
+* Udacity course in collaboration with Google - https://www.udacity.com/course/android-basics-user-interface--ud834  
+
 ### C Language   
 * Bell Labs C Manual - https://www.bell-labs.com/usr/dmr/www/cman.pdf  
 * C internals - http://www.avabodh.com/cin/cin.html  
