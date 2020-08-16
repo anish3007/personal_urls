@@ -50,14 +50,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * Spring Data JPA Tutorial - https://www.petrikainulainen.net/spring-data-jpa-tutorial/  
 
 
-### Go Programming Language  
-* Introduction to Go - https://gobyexample.com/   
-* Go Tutorial - http://www.golangbootcamp.com/book/intro  
-* Concurrency in Go - https://divan.dev/posts/go_concurrency_visualize/  
-* Channels in Go - https://dave.cheney.net/2013/04/30/curious-channels 
-* Notes on structured concurrency - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#nurseries-a-structured-replacement-for-go-statements  
-
-
 ### Python
 * Learn python the hard way - https://learnpythonthehardway.org/python3/  
 * Google's Python class - https://developers.google.com/edu/python/  
@@ -104,6 +96,13 @@ Repo for recording some helpful URLS and Bookmarks.
 * React Router Tutorial - https://github.com/reactjs/react-router-tutorial  
 * React Redux Tutorial - https://www.valentinog.com/blog/redux/   
 
+
+### Go Programming Language  
+* Introduction to Go - https://gobyexample.com/   
+* Go Tutorial - http://www.golangbootcamp.com/book/intro  
+* Concurrency in Go - https://divan.dev/posts/go_concurrency_visualize/  
+* Channels in Go - https://dave.cheney.net/2013/04/30/curious-channels 
+* Notes on structured concurrency - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#nurseries-a-structured-replacement-for-go-statements  
 
 ### Markdown
 * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
