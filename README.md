@@ -38,7 +38,14 @@ Repo for recording some helpful URLS and Bookmarks.
 * A gentle introduction to pointers using the C - https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/  
 
 ### Java
+* Java Programming and Software Engineering Fundamentals - https://click.linksynergy.com/deeplink?id=jU79Zysihs4&mid=40328&murl=https://www.coursera.org/specializations/java-programming
 * How to write a toy JVM - https://zserge.com/posts/jvm/ 
+* Java tutorial by Derek Banas - https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19
+* Java Tutorial by Oracle - https://docs.oracle.com/javase/tutorial/
+
+### Spring
+* Building Cloud Services with java Spring framework - https://click.linksynergy.com/deeplink?id=jU79Zysihs4&mid=40328&murl=https://www.coursera.org/learn/cloud-services-java-spring-framework
+* Spring Framework youtube tutorial - https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7
 
 ### Go Programming Language  
 * Introduction to Go - https://gobyexample.com/   
