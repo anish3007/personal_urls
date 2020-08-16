@@ -46,6 +46,9 @@ Repo for recording some helpful URLS and Bookmarks.
 ### Spring
 * Building Cloud Services with java Spring framework - https://click.linksynergy.com/deeplink?id=jU79Zysihs4&mid=40328&murl=https://www.coursera.org/learn/cloud-services-java-spring-framework
 * Spring Framework youtube tutorial - https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7
+* Spring tutorial for beginners - https://java2blog.com/introduction-to-spring-framework/  
+* Spring Data JPA Tutorial - https://www.petrikainulainen.net/spring-data-jpa-tutorial/  
+
 
 ### Go Programming Language  
 * Introduction to Go - https://gobyexample.com/   
@@ -76,6 +79,12 @@ Repo for recording some helpful URLS and Bookmarks.
 * You Dont Know JS Yet - https://github.com/getify/You-Dont-Know-JS/blob/master/README.md  
 * Mosh Javascript tutorial - https://www.youtube.com/watch?v=W6NZfCO5SIk  
 * Javascript Design Pattern - https://addyosmani.com/resources/essentialjsdesignpatterns/book/  
+
+
+### Node.js
+* Build Node.js Project from scratch - https://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/content/  
+* Code with Node:Learn By Doing - https://www.devsprout.io/code-with-node
+* Node Tuts - http://nodetuts.com/index.html  
 
 
 ### Android Development
@@ -111,17 +120,22 @@ Repo for recording some helpful URLS and Bookmarks.
 
 
 ## Datastructures
+* GeeksforGeeks Datastructures - https://www.geeksforgeeks.org/data-structures/
+* Learn Algorithms and Datastructures by Solving Challenges - https://www.learneroo.com/subjects/8
 * Cracking the coding interview - http://www.crackingthecodinginterview.com/  
 * How to read content of GeeksforGeeks in an organized way - https://www.geeksforgeeks.org/how-to-read-content-of-geeksforgeeks-in-an-organized-way/   
 
 
 ## Algorithms
+* GeeksForGeeks Fundamentals of Algorithm - https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+* Algorithms by Princeton - https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-acTTHM4Y_uYDL9YwNUNbfg&siteID=jU79Zysihs4-acTTHM4Y_uYDL9YwNUNbfg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4
 * Introduction to Algorithms(Cormen) - https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=zg_bs_491298_1?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Algorithms(Sedgewick) - https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=zg_bs_491298_6?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * The Art of Computer Programming(Knuth) - https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_491298_8?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * The Algorithm Design Manual(skeina) - https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=zg_bs_491298_13?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Elements of Programming Interviews: The Insiders' Guide - https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=zg_bs_491298_12?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Grokking Algorithms: An illustrated guide for programmers and other curious people - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=zg_bs_491298_2?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
+
 
 
 ## Object Oriented Design
@@ -148,6 +162,10 @@ Repo for recording some helpful URLS and Bookmarks.
 * Unix and internet fundamentals - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html  
 * Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
 
+
+## Full-Stack
+* Coursera Full-stack course : https://www.coursera.org/specializations/full-stack-react#courses  
+* Fulltack Open course : https://fullstackopen.com/en/
 
 ## Distributed Systems
 * Course by Brown University - http://cs.brown.edu/courses/cs138/s15/ 
