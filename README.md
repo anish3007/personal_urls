@@ -160,7 +160,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Javascript, the worlds most misunderstood language - http://crockford.com/javascript/  
 * Unix and internet fundamentals - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html  
 * Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
-
+* Minimal Web Development - https://meiert.com/en/blog/minimal-web-development/
 
 ## Full-Stack
 * Coursera Full-stack course : https://www.coursera.org/specializations/full-stack-react#courses  
@@ -184,6 +184,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Crash course in compilers - https://increment.com/programming-languages/crash-course-in-compilers/  
 
 ## Computer Securtiy
+* The Joy of Cryptography - http://web.engr.oregonstate.edu/~rosulekm/crypto/
 * How not to learn cryptography - http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/  
 * Keybase - https://keybase.io/blog/keybase-joins-zoom  
 * ssh agent - https://smallstep.com/blog/ssh-agent-explained/   
