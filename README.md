@@ -249,6 +249,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Tutorials by Sentdex - https://pythonprogramming.net/data-analysis-tutorials/  
 * Learning AI/ML the hard way - https://dzone.com/articles/learning-ai-ml-the-hard-way  
 * Resources for AI/ML Learning (HN Disucssion) - https://news.ycombinator.com/item?id=14998352   
+* Tune Decision Tree - https://towardsdatascience.com/how-to-tune-a-decision-tree-f03721801680  
+
 
 ## Deep Learning 
 * Convolution Neural Network for visual recognition - http://cs231n.github.io/   
