@@ -14,6 +14,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Best sites to learn to code - https://www.slant.co/topics/965/~best-websites-to-learn-to-code 
 * BDFL(Benevolent Dictator for Life) - https://en.wikipedia.org/wiki/Benevolent_dictator_for_life 
 * Microsoft Reasearch - https://www.microsoft.com/en-us/research/ 
+* Awesome List - https://github.com/sindresorhus/awesome
 
 
 ## Website for Computer Science
@@ -29,7 +30,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * CS Great Readings : https://github.com/ossu/computer-science/blob/master/extras/readings.md
 * Mega Project list : https://github.com/karan/Projects
 * CS Bottoms-up : http://www.bottomupcs.com/index.xhtml
-
+* Best Websites Programmer should visit : https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 
 ## Programming Language 
