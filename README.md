@@ -12,6 +12,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Designing Data Intensive Application - https://dataintensive.net/  
 * Google for education - https://edu.google.com/?modal_active=none  
 * Best sites to learn to code - https://www.slant.co/topics/965/~best-websites-to-learn-to-code 
+* BDFL(Benevolent Dictator for Life) - https://en.wikipedia.org/wiki/Benevolent_dictator_for_life 
+* Microsoft Reasearch - https://www.microsoft.com/en-us/research/ 
 
 
 ## Website for Computer Science
@@ -152,7 +154,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Facebook - http://highscalability.com/blog/category/facebook  
 * Instagram Acrchitecture - http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html  
 * Scalability Blogs - http://highscalability.com/blog/category/blog  
-
+* Architecture of open source applications - https://aosabook.org/en/index.html  
 
 ## Web Programming
 * Why web development is so complicated -  https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
@@ -250,6 +252,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Learning AI/ML the hard way - https://dzone.com/articles/learning-ai-ml-the-hard-way  
 * Resources for AI/ML Learning (HN Disucssion) - https://news.ycombinator.com/item?id=14998352   
 * Tune Decision Tree - https://towardsdatascience.com/how-to-tune-a-decision-tree-f03721801680  
+* Machine Learning from Scratch - https://dafriedman97.github.io/mlbook/content/introduction.html  
 
 
 ## Deep Learning 
