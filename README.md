@@ -15,6 +15,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * BDFL(Benevolent Dictator for Life) - https://en.wikipedia.org/wiki/Benevolent_dictator_for_life 
 * Microsoft Reasearch - https://www.microsoft.com/en-us/research/ 
 * Awesome List - https://github.com/sindresorhus/awesome
+* Improving a legacy codebase - https://jacquesmattheij.com/improving-a-legacy-codebase/  
 
 
 ## Website for Computer Science
@@ -39,6 +40,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Bell Labs C Manual - https://www.bell-labs.com/usr/dmr/www/cman.pdf  
 * C internals - http://www.avabodh.com/cin/cin.html  
 * A gentle introduction to pointers using the C - https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/  
+
 
 ### Java
 * Java Programming and Software Engineering Fundamentals - https://click.linksynergy.com/deeplink?id=jU79Zysihs4&mid=40328&murl=https://www.coursera.org/specializations/java-programming
@@ -107,14 +109,18 @@ Repo for recording some helpful URLS and Bookmarks.
 * Channels in Go - https://dave.cheney.net/2013/04/30/curious-channels 
 * Notes on structured concurrency - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#nurseries-a-structured-replacement-for-go-statements  
 
+
 ### Markdown
 * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
+
 
 ### Git
 * git log - https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/   
 
+
 ### Rest API
 * Rest tutorial - https://stackify.com/rest-api-tutorial/  
+
 
 ### Other programming language
 * Hands on Scala - https://www.handsonscala.com/   
@@ -126,6 +132,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Learn Algorithms and Datastructures by Solving Challenges - https://www.learneroo.com/subjects/8
 * Cracking the coding interview - http://www.crackingthecodinginterview.com/  
 * How to read content of GeeksforGeeks in an organized way - https://www.geeksforgeeks.org/how-to-read-content-of-geeksforgeeks-in-an-organized-way/   
+* Advanced Datastructures - http://courses.csail.mit.edu/6.851/ 
 
 
 ## Algorithms
@@ -157,6 +164,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Scalability Blogs - http://highscalability.com/blog/category/blog  
 * Architecture of open source applications - https://aosabook.org/en/index.html  
 
+
 ## Web Programming
 * Why web development is so complicated -  https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
 * Learning Javascript through video lectures - https://catonmat.net/learning-javascript-programming-language-through-video-lectures 
@@ -164,10 +172,13 @@ Repo for recording some helpful URLS and Bookmarks.
 * Unix and internet fundamentals - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html  
 * Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
 * Minimal Web Development - https://meiert.com/en/blog/minimal-web-development/
+* Web Design in 4-minutes - https://jgthms.com/web-design-in-4-minutes/
+
 
 ## Full-Stack
 * Coursera Full-stack course : https://www.coursera.org/specializations/full-stack-react#courses  
 * Fulltack Open course : https://fullstackopen.com/en/
+
 
 ## Distributed Systems
 * Course by Brown University - http://cs.brown.edu/courses/cs138/s15/ 
@@ -197,7 +208,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Eliptic curve crytography - https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/  
 
 ## Cloud Computing
-* AWS Services - https://adayinthelifeof.nl/2020/05/20/aws.html  
+* All AWS Services described in one line- https://adayinthelifeof.nl/2020/05/20/aws.html  
 * Why is kubernetes getting so popular - https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/  
 
 
@@ -214,7 +225,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Calculus made easy - http://www.gutenberg.org/files/33283/33283-pdf.pdf  
 * Fundamental Theorems in Maths - http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf  
 * Bayes Theorem framework for critical thinking - https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html   
-
+* Maths Cheatsheet - https://ourway.keybase.pub/mathematics_cheat_sheet.pdf  
 
 
 ## Graph in CS 
@@ -280,7 +291,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Practical Deep Learning for coders - https://course.fast.ai/  
 * Andrew Ng's new deep learning specialization - https://www.deeplearning.ai/  
 * Andrew NG's coursera tutorials - https://www.coursera.org/learn/machine-learning  
-
+* ML 101 in presentation style - https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g183f28bdc3_0_90
 
 
 ## Programming Interviews
@@ -342,6 +353,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Levelup as a developer - https://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/  
 * Rob Pikes 5 rules of programming - http://users.ece.utexas.edu/~adnan/pike.html   
 * Hacker News Favourite Analysis - https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis  
+* My Wonderful world of MacOS - https://github.com/nikitavoloboev/my-mac-os/  
+
 
 ## Bitcoins
 * Butcoins from scratch - https://monokh.com/posts/bitcoin-from-scratch-part-1  
