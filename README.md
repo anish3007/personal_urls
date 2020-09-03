@@ -341,7 +341,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Programming as theory building - https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1  
 * Levelup as a developer - https://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/  
 * Rob Pikes 5 rules of programming - http://users.ece.utexas.edu/~adnan/pike.html   
-
+* Hacker News Favourite Analysis - https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis  
 
 ## Bitcoins
 * Butcoins from scratch - https://monokh.com/posts/bitcoin-from-scratch-part-1  
