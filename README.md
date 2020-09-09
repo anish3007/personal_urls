@@ -226,6 +226,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Fundamental Theorems in Maths - http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf  
 * Bayes Theorem framework for critical thinking - https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html   
 * Maths Cheatsheet - https://ourway.keybase.pub/mathematics_cheat_sheet.pdf  
+* Introduction to Computational Thinking - https://mitmath.github.io/18S191/Fall20/  
 
 
 ## Graph in CS 
@@ -292,7 +293,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Andrew Ng's new deep learning specialization - https://www.deeplearning.ai/  
 * Andrew NG's coursera tutorials - https://www.coursera.org/learn/machine-learning  
 * ML 101 in presentation style - https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g183f28bdc3_0_90
-
+* Understanding Convolution in deep learning - https://timdettmers.com/2015/03/26/convolution-deep-learning/  
 
 ## Programming Interviews
 * Leetcode - https://leetcode.com/  
