@@ -163,6 +163,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Instagram Acrchitecture - http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html  
 * Scalability Blogs - http://highscalability.com/blog/category/blog  
 * Architecture of open source applications - https://aosabook.org/en/index.html  
+* Making Instagram.com faster - https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538  
 
 
 ## Web Programming
