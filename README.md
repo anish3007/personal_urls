@@ -267,7 +267,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Resources for AI/ML Learning (HN Disucssion) - https://news.ycombinator.com/item?id=14998352   
 * Tune Decision Tree - https://towardsdatascience.com/how-to-tune-a-decision-tree-f03721801680  
 * Machine Learning from Scratch - https://dafriedman97.github.io/mlbook/content/introduction.html  
-
+* ML for working programmers - https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html  
 
 ## Deep Learning 
 * Convolution Neural Network for visual recognition - http://cs231n.github.io/   
