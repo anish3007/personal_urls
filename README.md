@@ -356,6 +356,10 @@ Repo for recording some helpful URLS and Bookmarks.
 * Rob Pikes 5 rules of programming - http://users.ece.utexas.edu/~adnan/pike.html   
 * Hacker News Favourite Analysis - https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis  
 * My Wonderful world of MacOS - https://github.com/nikitavoloboev/my-mac-os/  
+* How Https works - https://howhttps.works/  
+* How dns works - https://howdns.works/
+* Google chrome works - https://www.google.com/googlebooks/chrome/big_00.html
+* What is API - https://maggieappleton.com/api  
 
 
 ## Bitcoins
