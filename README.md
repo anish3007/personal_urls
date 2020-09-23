@@ -16,6 +16,9 @@ Repo for recording some helpful URLS and Bookmarks.
 * Microsoft Reasearch - https://www.microsoft.com/en-us/research/ 
 * Awesome List - https://github.com/sindresorhus/awesome
 * Improving a legacy codebase - https://jacquesmattheij.com/improving-a-legacy-codebase/  
+* Mining of massive dataset - http://www.mmds.org/
+* Command Line - https://www.learnenough.com/command-line 
+* Clocks for Software Engineers - http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html
 
 
 ## Website for Computer Science
@@ -47,6 +50,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * How to write a toy JVM - https://zserge.com/posts/jvm/ 
 * Java tutorial by Derek Banas - https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19
 * Java Tutorial by Oracle - https://docs.oracle.com/javase/tutorial/
+* Better Java - https://github.com/cxxr/better-java 
+
 
 ### Spring
 * Building Cloud Services with java Spring framework - https://click.linksynergy.com/deeplink?id=jU79Zysihs4&mid=40328&murl=https://www.coursera.org/learn/cloud-services-java-spring-framework
@@ -67,7 +72,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Python Debugging - https://martinheinz.dev/blog/24  
 * Python for datascience - https://github.com/blobcity/python-for-data-science  
 * python-speech-recognition - https://realpython.com/python-speech-recognition/  
-
+* Ask Python - https://www.askpython.com/python-programming  
 
 ### Javascript
 * The Javascript Tutorial - https://javascript.info/  
@@ -82,7 +87,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Build Node.js Project from scratch - https://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/content/  
 * Code with Node:Learn By Doing - https://www.devsprout.io/code-with-node
 * Node Tuts - http://nodetuts.com/index.html  
-
+* Design best practise - https://www.joyent.com/node-js/production/design
 
 ### Android Development
 * Vogella Android development tutorial - https://www.vogella.com/tutorials/android.html
@@ -144,6 +149,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * The Algorithm Design Manual(skeina) - https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=zg_bs_491298_13?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Elements of Programming Interviews: The Insiders' Guide - https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=zg_bs_491298_12?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Grokking Algorithms: An illustrated guide for programmers and other curious people - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=zg_bs_491298_2?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
+* Algorithms from the book - https://cstheory.stackexchange.com/questions/189/algorithms-from-the-book
 
 
 
@@ -213,7 +219,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * Why is kubernetes getting so popular - https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/  
 
 
-
 ## Maths for CS
 * Math for CS mit open course - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/  
 * Mathematics for Computer Science - https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf  
@@ -228,7 +233,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Bayes Theorem framework for critical thinking - https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html   
 * Maths Cheatsheet - https://ourway.keybase.pub/mathematics_cheat_sheet.pdf  
 * Introduction to Computational Thinking - https://mitmath.github.io/18S191/Fall20/  
-
+* Statistics for hackers - https://speakerdeck.com/jakevdp/statistics-for-hackers
 
 ## Graph in CS 
 * Problem solving using graph traversals - https://www.slideshare.net/slidarko/problemsolving-using-graph-traversals-searching-scoring-ranking-and-recommendation  
@@ -398,4 +403,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Hindi poetry - http://kavitakosh.org/  
 * Math book for teenagers - https://news.ycombinator.com/item?id=23711942  
 * Best Softskill resources - https://news.ycombinator.com/item?id=9987495  
-
+* How to fail as an engineering manager - https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a
+* Should engineering managers write code - https://medium.com/coursera-engineering/should-engineering-managers-write-code-wrong-question-ec5fc54d3903  
+* One of the biggest mistake I made in my career - https://medium.com/twenty-years-in-the-valley/one-of-the-biggest-mistakes-i-ve-made-in-my-career-72bf27c538b4
+* Music Theory - https://eev.ee/blog/2016/09/15/music-theory-for-nerds/ 
