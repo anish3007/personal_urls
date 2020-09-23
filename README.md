@@ -407,3 +407,4 @@ Repo for recording some helpful URLS and Bookmarks.
 * Should engineering managers write code - https://medium.com/coursera-engineering/should-engineering-managers-write-code-wrong-question-ec5fc54d3903  
 * One of the biggest mistake I made in my career - https://medium.com/twenty-years-in-the-valley/one-of-the-biggest-mistakes-i-ve-made-in-my-career-72bf27c538b4
 * Music Theory - https://eev.ee/blog/2016/09/15/music-theory-for-nerds/ 
+* How to live better - https://www.theatlantic.com/magazine/archive/2018/10/nietzsches-guide-to-better-living/568375/
