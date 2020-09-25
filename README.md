@@ -234,6 +234,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Maths Cheatsheet - https://ourway.keybase.pub/mathematics_cheat_sheet.pdf  
 * Introduction to Computational Thinking - https://mitmath.github.io/18S191/Fall20/  
 * Statistics for hackers - https://speakerdeck.com/jakevdp/statistics-for-hackers
+* Maths for programmers - https://yurichev.com/writings/Math-for-programmers.pdf  
+
 
 ## Graph in CS 
 * Problem solving using graph traversals - https://www.slideshare.net/slidarko/problemsolving-using-graph-traversals-searching-scoring-ranking-and-recommendation  
