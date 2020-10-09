@@ -74,6 +74,11 @@ Repo for recording some helpful URLS and Bookmarks.
 * python-speech-recognition - https://realpython.com/python-speech-recognition/  
 * Ask Python - https://www.askpython.com/python-programming  
 
+
+### Rust
+*  Designing a New Rust Class at Stanford: Safety in Systems Programming - https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html
+
+
 ### Javascript
 * The Javascript Tutorial - https://javascript.info/  
 * Freecodecamp Javascript tutorial - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/  
