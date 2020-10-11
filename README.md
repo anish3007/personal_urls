@@ -147,7 +147,7 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ## Algorithms
 * GeeksForGeeks Fundamentals of Algorithm - https://www.geeksforgeeks.org/fundamentals-of-algorithms/
-* Datastructures and Algorithms Blog - https://www.adamconrad.dev/blog/dynamic-programming-part-1/
+* Adam Conrad's Datastructures and Algorithms Blog - https://www.adamconrad.dev/blog/dynamic-programming-part-1/
 * Algorithms by Princeton - https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-acTTHM4Y_uYDL9YwNUNbfg&siteID=jU79Zysihs4-acTTHM4Y_uYDL9YwNUNbfg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4
 * Introduction to Algorithms(Cormen) - https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=zg_bs_491298_1?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Algorithms(Sedgewick) - https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=zg_bs_491298_6?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
