@@ -35,6 +35,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Mega Project list : https://github.com/karan/Projects
 * CS Bottoms-up : http://www.bottomupcs.com/index.xhtml
 * Best Websites Programmer should visit : https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+* Github repositories every aspiring developer should check out - https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
 
 
 ## Programming Language 
