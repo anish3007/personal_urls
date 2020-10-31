@@ -14,6 +14,8 @@
 
 ## Python
 * PEP 8 -- Style Guide for Python Code - https://www.python.org/dev/peps/pep-0008/  
+* Python errors and exceptions - https://docs.python.org/3/tutorial/errors.html
+* Python Floating Point Arithmetic - https://docs.python.org/3/tutorial/floatingpoint.html
 
 
 ## Datastructures
