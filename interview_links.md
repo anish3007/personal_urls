@@ -1,5 +1,15 @@
-## Interview Experience
-* How I cleared the Amazon SDE 2 interview - https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4
+## Computer Science Resource
+* Open Source Society University - https://github.com/ossu/computer-science
+* Teach Yourself Computer Science - https://teachyourselfcs.com/
+* Learn Awesome Computer Science - https://learnawesome.org/topics/2680f6d5-b662-4cc3-99e5-e748e744d875-computer-science?item_type=course
+* Github Repo Every Aspiring Developer Should Checkout - https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
+* A to Z Resources For Students - https://github.com/dipakkr/A-to-Z-Resources-for-Students
+
+
+## Interview Prep sites
+* Tech Interview handbook - https://yangshun.github.io/tech-interview-handbook/
+* Tech Interview handbook github repo - https://github.com/yangshun/tech-interview-handbook
+* Coding Interview University - https://github.com/jwasham/coding-interview-university
 
 
 ## Datastructures
@@ -53,3 +63,8 @@
 * Scalability Blogs - http://highscalability.com/blog/category/blog  
 * Architecture of open source applications - https://aosabook.org/en/index.html  
 * Making Instagram.com faster - https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538  
+
+
+## Interview Experience
+* How I cleared the Amazon SDE 2 interview - https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4
+
