@@ -12,6 +12,10 @@
 * Coding Interview University - https://github.com/jwasham/coding-interview-university
 
 
+## Python
+* PEP 8 -- Style Guide for Python Code - https://www.python.org/dev/peps/pep-0008/  
+
+
 ## Datastructures
 * GeeksforGeeks Datastructures - https://www.geeksforgeeks.org/data-structures/
 * Learn Algorithms and Datastructures by Solving Challenges - https://www.learneroo.com/subjects/8
