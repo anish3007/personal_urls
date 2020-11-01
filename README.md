@@ -39,12 +39,10 @@ Repo for recording some helpful URLS and Bookmarks.
 
 
 ## Programming Language 
-
 ### C Language   
 * Bell Labs C Manual - https://www.bell-labs.com/usr/dmr/www/cman.pdf  
 * C internals - http://www.avabodh.com/cin/cin.html  
 * A gentle introduction to pointers using the C - https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/  
-
 
 ### Java
 * Java Programming and Software Engineering Fundamentals - https://click.linksynergy.com/deeplink?id=jU79Zysihs4&mid=40328&murl=https://www.coursera.org/specializations/java-programming
@@ -53,13 +51,11 @@ Repo for recording some helpful URLS and Bookmarks.
 * Java Tutorial by Oracle - https://docs.oracle.com/javase/tutorial/
 * Better Java - https://github.com/cxxr/better-java 
 
-
 ### Spring
 * Building Cloud Services with java Spring framework - https://click.linksynergy.com/deeplink?id=jU79Zysihs4&mid=40328&murl=https://www.coursera.org/learn/cloud-services-java-spring-framework
 * Spring Framework youtube tutorial - https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7
 * Spring tutorial for beginners - https://java2blog.com/introduction-to-spring-framework/  
 * Spring Data JPA Tutorial - https://www.petrikainulainen.net/spring-data-jpa-tutorial/  
-
 
 ### Python
 * Learn python the hard way - https://learnpythonthehardway.org/python3/  
@@ -75,10 +71,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * python-speech-recognition - https://realpython.com/python-speech-recognition/  
 * Ask Python - https://www.askpython.com/python-programming  
 
-
 ### Rust
 *  Designing a New Rust Class at Stanford: Safety in Systems Programming - https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html
-
 
 ### Javascript
 * The Javascript Tutorial - https://javascript.info/  
@@ -87,7 +81,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * You Dont Know JS Yet - https://github.com/getify/You-Dont-Know-JS/blob/master/README.md  
 * Mosh Javascript tutorial - https://www.youtube.com/watch?v=W6NZfCO5SIk  
 * Javascript Design Pattern - https://addyosmani.com/resources/essentialjsdesignpatterns/book/  
-
 
 ### Node.js
 * Build Node.js Project from scratch - https://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/content/  
@@ -102,7 +95,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * Training for Android Developer - https://developer.android.com/guide
 * Pluralsight Android Training - https://pluralsight.pxf.io/e5E5r
 
-
 ### React
 * User Registration and login tutorial - https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example#index-html  
 * Create a simple react app - https://medium.com/better-programming/creating-a-simple-app-with-react-js-f6aa88998952  
@@ -112,7 +104,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * React Router Tutorial - https://github.com/reactjs/react-router-tutorial  
 * React Redux Tutorial - https://www.valentinog.com/blog/redux/   
 
-
 ### Go Programming Language  
 * Introduction to Go - https://gobyexample.com/   
 * Go Tutorial - http://www.golangbootcamp.com/book/intro  
@@ -120,26 +111,24 @@ Repo for recording some helpful URLS and Bookmarks.
 * Channels in Go - https://dave.cheney.net/2013/04/30/curious-channels 
 * Notes on structured concurrency - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#nurseries-a-structured-replacement-for-go-statements  
 
-
 ### Markdown
 * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
-
 
 ### Git
 * git log - https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/   
 
-
 ### Rest API
 * Rest tutorial - https://stackify.com/rest-api-tutorial/  
-
 
 ### Other programming language
 * Hands on Scala - https://www.handsonscala.com/   
 * History of clojure - https://clojure.org/about/history  
 
-
 ### Software Engineering
 * Foundations of Software Engineering - https://cmu-313.github.io/
+
+
+
 
 ## Datastructures
 * GeeksforGeeks Datastructures - https://www.geeksforgeeks.org/data-structures/
@@ -197,17 +186,13 @@ Repo for recording some helpful URLS and Bookmarks.
 * Become a Fullstack Web Developer - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 
 
-
-
 ## Distributed Systems
 * Course by Brown University - http://cs.brown.edu/courses/cs138/s15/ 
 * Distributed Systems Reading Group - http://dsrg.pdos.csail.mit.edu/papers/  
+* Distributed Systems Learning Notes - https://timilearning.com/
 * Raft Protocol github page - https://raft.github.io/   
 * Raft explanation with simulation - http://thesecretlivesofdata.com/raft/#intro  
-
-
-## RabbitMQ
-* intro - https://www.erlang-solutions.com/blog/an-introduction-to-rabbitmq-what-is-rabbitmq.html  
+* RabbitMQ Intro - https://www.erlang-solutions.com/blog/an-introduction-to-rabbitmq-what-is-rabbitmq.html  
 
 ## Computer Graphics
 * Princeton course - https://www.cs.princeton.edu/courses/archive/fall00/cs426/  
