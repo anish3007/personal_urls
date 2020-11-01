@@ -138,6 +138,9 @@ Repo for recording some helpful URLS and Bookmarks.
 * History of clojure - https://clojure.org/about/history  
 
 
+### Software Engineering
+* Foundations of Software Engineering - https://cmu-313.github.io/
+
 ## Datastructures
 * GeeksforGeeks Datastructures - https://www.geeksforgeeks.org/data-structures/
 * Learn Algorithms and Datastructures by Solving Challenges - https://www.learneroo.com/subjects/8
@@ -157,7 +160,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * Elements of Programming Interviews: The Insiders' Guide - https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=zg_bs_491298_12?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Grokking Algorithms: An illustrated guide for programmers and other curious people - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=zg_bs_491298_2?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Algorithms from the book - https://cstheory.stackexchange.com/questions/189/algorithms-from-the-book
-
 
 
 ## Object Oriented Design
@@ -193,6 +195,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Coursera Full-stack course : https://www.coursera.org/specializations/full-stack-react#courses  
 * Fulltack Open course : https://fullstackopen.com/en/
 * Become a Fullstack Web Developer - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+
+
 
 
 ## Distributed Systems
