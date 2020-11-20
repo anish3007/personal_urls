@@ -7,6 +7,9 @@
 * CS50 Introduction to computer science - https://www.edx.org/course/cs50s-introduction-to-computer-science
 * Object oriented programming in java - https://moocfi.github.io/courses/2013/programming-part-1/
 * Full Stack Open course -  https://fullstackopen.com/en/
+* reddit learnprogramming - /r/learnprogramming
+* developer community - dev.to
+* Learn on Phone : SoloLearn - https://www.sololearn.com/
 
 
 ## Interview Prep sites
