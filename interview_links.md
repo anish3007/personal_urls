@@ -4,6 +4,9 @@
 * Learn Awesome Computer Science - https://learnawesome.org/topics/2680f6d5-b662-4cc3-99e5-e748e744d875-computer-science?item_type=course
 * Github Repo Every Aspiring Developer Should Checkout - https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
 * A to Z Resources For Students - https://github.com/dipakkr/A-to-Z-Resources-for-Students
+* CS50 Introduction to computer science - https://www.edx.org/course/cs50s-introduction-to-computer-science
+* Object oriented programming in java - https://moocfi.github.io/courses/2013/programming-part-1/
+* Full Stack Open course -  https://fullstackopen.com/en/
 
 
 ## Interview Prep sites
