@@ -10,6 +10,7 @@
 * reddit learnprogramming - /r/learnprogramming
 * developer community - dev.to
 * Learn on Phone : SoloLearn - https://www.sololearn.com/
+* 10 Best Books for Programmers in 2020 - https://codingwizardry.com/2020/11/13/10-best-books-for-programmers-in-2020/
 
 
 ## Interview Prep sites
