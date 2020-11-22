@@ -364,6 +364,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * How dns works - https://howdns.works/
 * Google chrome works - https://www.google.com/googlebooks/chrome/big_00.html
 * What is API - https://maggieappleton.com/api  
+* Objective reasons to prefer Linux to Windows - https://github.com/nbeaver/why-linux-is-better
+* What distinguishes great Software Engineers - https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf
 
 
 ## Bitcoins
