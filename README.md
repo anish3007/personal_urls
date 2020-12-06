@@ -128,8 +128,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * Foundations of Software Engineering - https://cmu-313.github.io/
 
 
-
-
 ## Datastructures
 * GeeksforGeeks Datastructures - https://www.geeksforgeeks.org/data-structures/
 * Learn Algorithms and Datastructures by Solving Challenges - https://www.learneroo.com/subjects/8
@@ -366,6 +364,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * What is API - https://maggieappleton.com/api  
 * Objective reasons to prefer Linux to Windows - https://github.com/nbeaver/why-linux-is-better
 * What distinguishes great Software Engineers - https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf
+* Advanced Computer Science courses - https://news.ycombinator.com/item?id=25271676
 
 
 ## Bitcoins
