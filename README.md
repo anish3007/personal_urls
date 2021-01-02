@@ -70,6 +70,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Python for datascience - https://github.com/blobcity/python-for-data-science  
 * python-speech-recognition - https://realpython.com/python-speech-recognition/  
 * Ask Python - https://www.askpython.com/python-programming  
+* Virtual Environmennt Demystified - https://meribold.org/python/2018/02/13/virtual-environments-9487/
 
 ### Rust
 *  Designing a New Rust Class at Stanford: Safety in Systems Programming - https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html
