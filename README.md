@@ -388,6 +388,8 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ## Control Systems
 * simple control system - https://feltrac.co/control/2020/01/12/simple-control-systems.html  
+* Getting started with robotics - https://allshire.org/getting-started-robotics/
+
 
 ## Marketing
 * Marketing for engineers - https://github.com/LisaDziuba/Marketing-for-Engineers  
