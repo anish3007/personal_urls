@@ -19,7 +19,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Mining of massive dataset - http://www.mmds.org/
 * Command Line - https://www.learnenough.com/command-line 
 * Clocks for Software Engineers - http://zipcpu.com/blog/2017/09/18/clocks-for-sw-engineers.html
-
+* Best Papers in Computer Science in last 25 years - https://jeffhuang.com/best_paper_awards/
 
 ## Website for Computer Science
 * Stanford Engineering Everywhere : https://see.stanford.edu/
