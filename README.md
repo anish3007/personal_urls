@@ -71,6 +71,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * python-speech-recognition - https://realpython.com/python-speech-recognition/  
 * Ask Python - https://www.askpython.com/python-programming  
 * Virtual Environmennt Demystified - https://meribold.org/python/2018/02/13/virtual-environments-9487/
+* Python pyenv and virtualenvwrapper setup - https://gist.github.com/SebastiaAgramunt/5185ccf8637e69f611bd1217a98289b2
+
 
 ### Rust
 *  Designing a New Rust Class at Stanford: Safety in Systems Programming - https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html
