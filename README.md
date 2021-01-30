@@ -300,6 +300,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Andrew NG's coursera tutorials - https://www.coursera.org/learn/machine-learning  
 * ML 101 in presentation style - https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g183f28bdc3_0_90
 * Understanding Convolution in deep learning - https://timdettmers.com/2015/03/26/convolution-deep-learning/  
+* LabML Neural Netwroks - https://nn.labml.ai/
+
 
 ## Programming Interviews
 * Leetcode - https://leetcode.com/  
