@@ -72,7 +72,11 @@ Repo for recording some helpful URLS and Bookmarks.
 * Ask Python - https://www.askpython.com/python-programming  
 * Virtual Environmennt Demystified - https://meribold.org/python/2018/02/13/virtual-environments-9487/
 * Python pyenv and virtualenvwrapper setup - https://gist.github.com/SebastiaAgramunt/5185ccf8637e69f611bd1217a98289b2
-
+* Python JSON - https://www.programiz.com/python-programming/json
+* Search data in JSON - https://linuxhint.com/search_json_python/
+* Reading and writing a JSON to a file - https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
+* Reading and writing a JSON to a file - https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/
+* Making use of environment variables in Python - https://www.nylas.com/blog/making-use-of-environment-variables-in-python/
 
 ### Rust
 *  Designing a New Rust Class at Stanford: Safety in Systems Programming - https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html
