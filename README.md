@@ -64,6 +64,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Python tutorial for beginners - https://www.youtube.com/watch?v=_uQrJ0TkZlc  
 * Automate Boring stuff with Python - http://automatetheboringstuff.com/  
 * Python Cheatsheet - https://www.pythonforbeginners.com/cheatsheet/  
+* Web Scraping 101 with Python - https://www.scrapingbee.com/blog/web-scraping-101-with-python/
 * SICP in Python - https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html  
 * Best Python Resources for Beginners and Professionals - https://pythontips.com/2013/09/01/best-python-resources/  
 * Python Debugging - https://martinheinz.dev/blog/24  
@@ -77,6 +78,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Reading and writing a JSON to a file - https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
 * Reading and writing a JSON to a file - https://www.geeksforgeeks.org/reading-and-writing-json-to-a-file-in-python/
 * Making use of environment variables in Python - https://www.nylas.com/blog/making-use-of-environment-variables-in-python/
+
 
 ### Rust
 *  Designing a New Rust Class at Stanford: Safety in Systems Programming - https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html
@@ -200,6 +202,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Distributed Systems Learning Notes - https://timilearning.com/
 * Raft Protocol github page - https://raft.github.io/   
 * Raft explanation with simulation - http://thesecretlivesofdata.com/raft/#intro  
+* Patterns of Distributed Systems - https://martinfowler.com/articles/patterns-of-distributed-systems/
 * RabbitMQ Intro - https://www.erlang-solutions.com/blog/an-introduction-to-rabbitmq-what-is-rabbitmq.html  
 
 ## Computer Graphics
