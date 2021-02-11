@@ -159,7 +159,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Elements of Programming Interviews: The Insiders' Guide - https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=zg_bs_491298_12?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Grokking Algorithms: An illustrated guide for programmers and other curious people - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=zg_bs_491298_2?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Algorithms from the book - https://cstheory.stackexchange.com/questions/189/algorithms-from-the-book
-
+* Algorithms by Jeff Erickson - http://jeffe.cs.illinois.edu/teaching/algorithms/
 
 ## Object Oriented Design
 * Design Patterns: Elements of Reusable Object-Oriented Software - https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=zg_bs_491310_2?_encoding=UTF8&psc=1&refRID=7GV91R3FWVP7PZQEZ102  
