@@ -102,6 +102,9 @@ Repo for recording some helpful URLS and Bookmarks.
 * Training for Android Developer - https://developer.android.com/guide
 * Pluralsight Android Training - https://pluralsight.pxf.io/e5E5r
 
+### iOS
+* https://cs193p.sites.stanford.edu/
+
 ### React
 * User Registration and login tutorial - https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example#index-html  
 * Create a simple react app - https://medium.com/better-programming/creating-a-simple-app-with-react-js-f6aa88998952  
