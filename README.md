@@ -2,6 +2,7 @@
 Repo for recording some helpful URLS and Bookmarks.
 
 ## General Computer Science
+* Hackers Dictionary - http://catb.org/~esr/jargon/html/frames.html
 * Structure and Interpretation of Computer Programs - https://opendocs.github.io/sicp/sicp.pdf  
 * principled approach to system design and programming - https://urbit.org/blog/precepts  
 * Functional Programming For The Rest of Us - http://www.defmacro.org/2006/06/19/fp.html  
