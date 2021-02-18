@@ -28,7 +28,7 @@
 
 ## Fucntional Programming
 * Learn Functional Programming visually - https://david-peter.de/cube-composer/
-
+* Functorio - https://bartoszmilewski.com/2021/02/16/functorio/
 
 ## Coding Sites
 * Hackerrank - https://www.hackerrank.com/
