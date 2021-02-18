@@ -67,6 +67,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Python Cheatsheet - https://www.pythonforbeginners.com/cheatsheet/  
 * Web Scraping 101 with Python - https://www.scrapingbee.com/blog/web-scraping-101-with-python/
 * SICP in Python - https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html  
+* Python Programming And Numerical Methods - https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
 * Best Python Resources for Beginners and Professionals - https://pythontips.com/2013/09/01/best-python-resources/  
 * Python Debugging - https://martinheinz.dev/blog/24  
 * Python for datascience - https://github.com/blobcity/python-for-data-science  
