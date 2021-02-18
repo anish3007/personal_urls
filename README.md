@@ -410,6 +410,9 @@ Repo for recording some helpful URLS and Bookmarks.
 ## Marketing
 * Marketing for engineers - https://github.com/LisaDziuba/Marketing-for-Engineers  
 
+## Leadership
+* Leadership Soft Skills - https://codingsans.com/blog/leadership-soft-skills
+
 ## Other Educational
 * A protocol for dying - http://hintjens.com/blog:115  
 * Dean Yeong reading list - https://deanyeong.com/reading-notes/?utm_source=Quora&utm_medium=content&utm_campaign=quora+traffic  
