@@ -138,6 +138,7 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ### Rest API
 * Rest tutorial - https://stackify.com/rest-api-tutorial/  
+* API Design Guide - https://cloud.google.com/apis/design/
 
 ### Other programming language
 * Hands on Scala - https://www.handsonscala.com/   
