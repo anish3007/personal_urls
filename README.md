@@ -84,6 +84,8 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ### Rust
 *  Designing a New Rust Class at Stanford: Safety in Systems Programming - https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html
+* Learn Rust With Entirely Too Many Linked Lists - https://rust-unofficial.github.io/too-many-lists/index.html#learn-rust-with-entirely-too-many-linked-lists
+
 
 ### Javascript
 * The Javascript Tutorial - https://javascript.info/  
@@ -124,6 +126,9 @@ Repo for recording some helpful URLS and Bookmarks.
 * Concurrency in Go - https://divan.dev/posts/go_concurrency_visualize/  
 * Channels in Go - https://dave.cheney.net/2013/04/30/curious-channels 
 * Notes on structured concurrency - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#nurseries-a-structured-replacement-for-go-statements  
+
+### Bash
+* The Bash Hackers Wiki - https://wiki.bash-hackers.org/
 
 ### Markdown
 * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
