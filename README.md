@@ -111,6 +111,7 @@ Repo for recording some helpful URLS and Bookmarks.
 ### iOS
 * https://cs193p.sites.stanford.edu/
 
+
 ### React
 * User Registration and login tutorial - https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example#index-html  
 * Create a simple react app - https://medium.com/better-programming/creating-a-simple-app-with-react-js-f6aa88998952  
@@ -120,6 +121,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * React Router Tutorial - https://github.com/reactjs/react-router-tutorial  
 * React Redux Tutorial - https://www.valentinog.com/blog/redux/   
 
+
 ### Go Programming Language  
 * Introduction to Go - https://gobyexample.com/   
 * Go Tutorial - http://www.golangbootcamp.com/book/intro  
@@ -127,22 +129,29 @@ Repo for recording some helpful URLS and Bookmarks.
 * Channels in Go - https://dave.cheney.net/2013/04/30/curious-channels 
 * Notes on structured concurrency - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#nurseries-a-structured-replacement-for-go-statements  
 
+
 ### Bash
 * The Bash Hackers Wiki - https://wiki.bash-hackers.org/
+
 
 ### Markdown
 * Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
 
+
 ### Git
 * git log - https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/   
+
 
 ### Rest API
 * Rest tutorial - https://stackify.com/rest-api-tutorial/  
 * API Design Guide - https://cloud.google.com/apis/design/
+* Designing robust and predictable APIs with idempotency - https://stripe.com/blog/idempotency
+
 
 ### Other programming language
 * Hands on Scala - https://www.handsonscala.com/   
 * History of clojure - https://clojure.org/about/history  
+
 
 ### Software Engineering
 * Foundations of Software Engineering - https://cmu-313.github.io/
@@ -168,6 +177,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Grokking Algorithms: An illustrated guide for programmers and other curious people - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=zg_bs_491298_2?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Algorithms from the book - https://cstheory.stackexchange.com/questions/189/algorithms-from-the-book
 * Algorithms by Jeff Erickson - http://jeffe.cs.illinois.edu/teaching/algorithms/
+
 
 ## Object Oriented Design
 * Design Patterns: Elements of Reusable Object-Oriented Software - https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=zg_bs_491310_2?_encoding=UTF8&psc=1&refRID=7GV91R3FWVP7PZQEZ102  
@@ -230,6 +240,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Penetration Testing Lab - https://www.hackthebox.eu/  
 * Eliptic curve crytography - https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/  
 
+
 ## Cloud Computing
 * All AWS Services described in one line- https://adayinthelifeof.nl/2020/05/20/aws.html  
 * Why is kubernetes getting so popular - https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/  
@@ -252,6 +263,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Statistics for hackers - https://speakerdeck.com/jakevdp/statistics-for-hackers
 * Maths for programmers - https://yurichev.com/writings/Math-for-programmers.pdf  
 * The map of Mathematics - https://mathmap.quantamagazine.org/map/
+
 
 ## Graph in CS 
 * Problem solving using graph traversals - https://www.slideshare.net/slidarko/problemsolving-using-graph-traversals-searching-scoring-ranking-and-recommendation  
@@ -330,6 +342,7 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ## Devops
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - https://www.amazon.com/dp/1942788290  
+
 
 ## Tools
 * pdf editor - https://simpdf.com/  
