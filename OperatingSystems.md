@@ -12,3 +12,4 @@
 * Linux Pocket Guide: Essential Commands - https://www.amazon.com/Linux-Pocket-Guide-Essential-Commands/dp/1491927577/ref=zg_bs_491312_6?_encoding=UTF8&psc=1&refRID=D04EG7WVBNW36TE0FQ80  
 * Interactive map of Linux kernel -  https://makelinux.github.io/kernel/map/  
 * Linux Training.be - http://linux-training.be/  
+* A Heavily Commented Linux Kernel Source Code - http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf
