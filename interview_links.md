@@ -91,3 +91,4 @@
 ## Interview Experience
 * How I cleared the Amazon SDE 2 interview - https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4
 * The Horrifically Dystopian World of Software Engineering Interviews - https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews
+* Interviewing for a JavaScript Job - http://raganwald.com/2015/02/21/interviewing-for-a-front-end-job.html
