@@ -18,7 +18,7 @@
 * Tech Interview handbook - https://yangshun.github.io/tech-interview-handbook/
 * Tech Interview handbook github repo - https://github.com/yangshun/tech-interview-handbook
 * Coding Interview University - https://github.com/jwasham/coding-interview-university
-
+* Coderust: Hacking the Coding Interview - https://www.educative.io/courses/coderust-hacking-the-coding-interview
 
 ## Python
 * PEP 8 -- Style Guide for Python Code - https://www.python.org/dev/peps/pep-0008/  
