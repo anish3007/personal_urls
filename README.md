@@ -225,6 +225,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Distributed Systems Learning Notes - https://timilearning.com/
 * Raft Protocol github page - https://raft.github.io/   
 * Raft explanation with simulation - http://thesecretlivesofdata.com/raft/#intro  
+* Implementing Raft - https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/
 * Patterns of Distributed Systems - https://martinfowler.com/articles/patterns-of-distributed-systems/
 * RabbitMQ Intro - https://www.erlang-solutions.com/blog/an-introduction-to-rabbitmq-what-is-rabbitmq.html  
 
