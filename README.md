@@ -155,7 +155,7 @@ Repo for recording some helpful URLS and Bookmarks.
 
 ### Software Engineering
 * Foundations of Software Engineering - https://cmu-313.github.io/
-
+* How to Deploy Software - https://zachholman.com/posts/deploying-software
 
 ## Datastructures
 * GeeksforGeeks Datastructures - https://www.geeksforgeeks.org/data-structures/
