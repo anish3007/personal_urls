@@ -410,7 +410,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Objective reasons to prefer Linux to Windows - https://github.com/nbeaver/why-linux-is-better
 * What distinguishes great Software Engineers - https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf
 * Advanced Computer Science courses - https://news.ycombinator.com/item?id=25271676
-
+* How seraches work - https://www.google.com/search/howsearchworks/
 
 ## Bitcoins
 * Butcoins from scratch - https://monokh.com/posts/bitcoin-from-scratch-part-1  
