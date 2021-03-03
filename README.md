@@ -287,6 +287,7 @@ Repo for recording some helpful URLS and Bookmarks.
 
 
 ## Machine Learning
+* Machine Learning Crash Course - https://developers.google.com/machine-learning/crash-course/ 
 * Stanford ML course - https://see.stanford.edu/Course/CS229  
 * Tom Mitchell course - http://www.cs.cmu.edu/~tom/  
 * ML course ranked - https://www.freecodecamp.org/news/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0/   
