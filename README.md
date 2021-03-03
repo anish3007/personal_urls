@@ -460,3 +460,4 @@ Repo for recording some helpful URLS and Bookmarks.
 * How to live better - https://www.theatlantic.com/magazine/archive/2018/10/nietzsches-guide-to-better-living/568375/
 * BBC Future - https://www.bbc.com/future/columns/best-of-bbc-future/ 
 * The art of story telling - https://www.khanacademy.org/humanities/hass-storytelling/storytelling-pixar-in-a-box 
+* Must see TED talks - https://www.quora.com/TED-Talks/What-are-some-of-the-must-see-TED-talks
