@@ -271,7 +271,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Statistics for hackers - https://speakerdeck.com/jakevdp/statistics-for-hackers
 * Maths for programmers - https://yurichev.com/writings/Math-for-programmers.pdf  
 * The map of Mathematics - https://mathmap.quantamagazine.org/map/
-
+* Probability, Mathematical Statistics, Stochastic Processes - randomservices.org/random/
 
 ## Graph in CS 
 * Problem solving using graph traversals - https://www.slideshare.net/slidarko/problemsolving-using-graph-traversals-searching-scoring-ranking-and-recommendation  
