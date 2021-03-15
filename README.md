@@ -23,6 +23,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Best Papers in Computer Science in last 25 years - https://jeffhuang.com/best_paper_awards/
 
 ## Website for Computer Science
+* project-based-learning - https://github.com/tuvtran/project-based-learning
 * Stanford Engineering Everywhere : https://see.stanford.edu/
 * MIT OpenCourseWare : https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science
 * CS OSSU : https://github.com/ossu/computer-science
