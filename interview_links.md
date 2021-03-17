@@ -20,21 +20,25 @@
 * Coding Interview University - https://github.com/jwasham/coding-interview-university
 * Coderust: Hacking the Coding Interview - https://www.educative.io/courses/coderust-hacking-the-coding-interview
 
+## Coding Sites
+* CLIST - https://clist.by/
+* Codeforces - https://codeforces.com/
+* Codechef - https://www.codechef.com/
+* Hackerrank - https://www.hackerrank.com/
+* Codewar - https://www.codewars.com/
+
+
 ## Python
 * PEP 8 -- Style Guide for Python Code - https://www.python.org/dev/peps/pep-0008/  
 * Python errors and exceptions - https://docs.python.org/3/tutorial/errors.html
 * Python Floating Point Arithmetic - https://docs.python.org/3/tutorial/floatingpoint.html
 * String methods in python - https://docs.python.org/3/library/stdtypes.html#string-methods
 * Using format string method - https://docs.python.org/3.6/library/string.html#format-string-syntax
+* Python pyenv and virtualenvwrapper setup - https://gist.github.com/SebastiaAgramunt/5185ccf8637e69f611bd1217a98289b2
 
-## Fucntional Programming
+## Functional Programming
 * Learn Functional Programming visually - https://david-peter.de/cube-composer/
 * Functorio - https://bartoszmilewski.com/2021/02/16/functorio/
-
-## Coding Sites
-* Hackerrank - https://www.hackerrank.com/
-* Codewar - https://www.codewars.com/
-
 
 ## Datastructures
 * GeeksforGeeks Datastructures - https://www.geeksforgeeks.org/data-structures/
