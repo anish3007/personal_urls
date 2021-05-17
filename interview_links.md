@@ -19,6 +19,8 @@
 * Tech Interview handbook github repo - https://github.com/yangshun/tech-interview-handbook
 * Coding Interview University - https://github.com/jwasham/coding-interview-university
 * Coderust: Hacking the Coding Interview - https://www.educative.io/courses/coderust-hacking-the-coding-interview
+* Advice to People Nurturing a Career in Computering - https://christine.website/blog/career-advice-2019-06-18
+
 
 ## Coding Sites
 * CLIST - https://clist.by/
