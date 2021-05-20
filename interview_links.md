@@ -38,6 +38,7 @@
 * String methods in python - https://docs.python.org/3/library/stdtypes.html#string-methods
 * Using format string method - https://docs.python.org/3.6/library/string.html#format-string-syntax
 * Python pyenv and virtualenvwrapper setup - https://gist.github.com/SebastiaAgramunt/5185ccf8637e69f611bd1217a98289b2
+* Python in Plain English - https://python.plainenglish.io/
 
 ## Functional Programming
 * Learn Functional Programming visually - https://david-peter.de/cube-composer/
