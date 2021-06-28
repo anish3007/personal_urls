@@ -252,6 +252,10 @@ Repo for recording some helpful URLS and Bookmarks.
 * Eliptic curve crytography - https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/  
 
 
+## Blockchain
+* Karpathys blog - https://karpathy.github.io/2021/06/21/blockchain/
+
+
 ## Cloud Computing
 * All AWS Services described in one line- https://adayinthelifeof.nl/2020/05/20/aws.html  
 * Why is kubernetes getting so popular - https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/  
