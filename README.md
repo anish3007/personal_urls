@@ -160,27 +160,8 @@ Repo for recording some helpful URLS and Bookmarks.
 * Foundations of Software Engineering - https://cmu-313.github.io/
 * How to Deploy Software - https://zachholman.com/posts/deploying-software
 
-## Datastructures
-* GeeksforGeeks Datastructures - https://www.geeksforgeeks.org/data-structures/
-* Learn Algorithms and Datastructures by Solving Challenges - https://www.learneroo.com/subjects/8
-* Cracking the coding interview - http://www.crackingthecodinginterview.com/  
-* How to read content of GeeksforGeeks in an organized way - https://www.geeksforgeeks.org/how-to-read-content-of-geeksforgeeks-in-an-organized-way/   
-* Advanced Datastructures - http://courses.csail.mit.edu/6.851/ 
-
-
-## Algorithms
-* GeeksForGeeks Fundamentals of Algorithm - https://www.geeksforgeeks.org/fundamentals-of-algorithms/
-* Adam Conrad's Datastructures and Algorithms Blog - https://www.adamconrad.dev/blog/dynamic-programming-part-1/
-* Algorithms by Princeton - https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=jU79Zysihs4&ranSiteID=jU79Zysihs4-acTTHM4Y_uYDL9YwNUNbfg&siteID=jU79Zysihs4-acTTHM4Y_uYDL9YwNUNbfg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4
-* Introduction to Algorithms(Cormen) - https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=zg_bs_491298_1?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
-* Algorithms(Sedgewick) - https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=zg_bs_491298_6?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
-* The Art of Computer Programming(Knuth) - https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_491298_8?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
-* The Algorithm Design Manual(skeina) - https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=zg_bs_491298_13?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
-* Elements of Programming Interviews: The Insiders' Guide - https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=zg_bs_491298_12?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
-* Grokking Algorithms: An illustrated guide for programmers and other curious people - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=zg_bs_491298_2?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
-* Algorithms from the book - https://cstheory.stackexchange.com/questions/189/algorithms-from-the-book
-* Algorithms by Jeff Erickson - http://jeffe.cs.illinois.edu/teaching/algorithms/
-
+## Datastructures and Algorithms
+(refer to interview_links.md)
 
 ## Object Oriented Design
 * Design Patterns: Elements of Reusable Object-Oriented Software - https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=zg_bs_491310_2?_encoding=UTF8&psc=1&refRID=7GV91R3FWVP7PZQEZ102  
@@ -252,9 +233,9 @@ Repo for recording some helpful URLS and Bookmarks.
 * Eliptic curve crytography - https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/  
 
 
-## Blockchain
+## Blockchain and Bitcoins
 * Karpathys blog - https://karpathy.github.io/2021/06/21/blockchain/
-
+* Butcoins from scratch - https://monokh.com/posts/bitcoin-from-scratch-part-1 
 
 ## Cloud Computing
 * All AWS Services described in one line- https://adayinthelifeof.nl/2020/05/20/aws.html  
@@ -351,12 +332,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * LabML Neural Netwroks - https://nn.labml.ai/
 * Most Cited Deep Learning Papers - https://github.com/terryum/awesome-deep-learning-papers
 
-## Programming Interviews
-* Leetcode - https://leetcode.com/  
-* Lambda Schools - https://lambdaschool.com/  
-* Hiring without whiteboards - https://github.com/poteto/hiring-without-whiteboards
-* 60 interviews in 30 days - https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky  
-
 
 ## Devops
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - https://www.amazon.com/dp/1942788290  
@@ -421,9 +396,6 @@ Repo for recording some helpful URLS and Bookmarks.
 * Advanced Computer Science courses - https://news.ycombinator.com/item?id=25271676
 * How seraches work - https://www.google.com/search/howsearchworks/
 
-## Bitcoins
-* Butcoins from scratch - https://monokh.com/posts/bitcoin-from-scratch-part-1  
-
 
 ## CS Tutorials
 * Future Skills NASSCOM - https://fslearning.nasscom.in/?utm_source=fslearninglaunch&utm_medium=Mailer&utm_campaign=FSlearning_launch  
@@ -439,6 +411,7 @@ Repo for recording some helpful URLS and Bookmarks.
 * Paul Graham's Essay - http://paulgraham.com/articles.html  
 * Cal Newport blog - https://www.calnewport.com/blog/  
 * Rygs Blog(Papers I like) - https://fgiesen.wordpress.com/category/papers/  
+
 
 ## Control Systems
 * simple control system - https://feltrac.co/control/2020/01/12/simple-control-systems.html  
