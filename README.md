@@ -11,5 +11,5 @@ Other links are grouped together in separate categories:
 * [software_architecture](software_architecture.md) : Contains topics such as System Design, Object Oriented Design and Distibutes Systems
 * [security_blockchain_resources]( security_blockchain_resources.md) : Topics related to Computer Security and Blockchain
 * [devops_resources]( devops_resources.md) : Links related to Devops
-* [interview_resources](https://github.com/anish3007/personal_urls/find/master#:~:text=interview_resources.md) : Links to use for interview preparation
+* [interview_resources]( interview_resources.md) : Links to use for interview preparation
 
