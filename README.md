@@ -1,9 +1,9 @@
 # URLs and Bookmarks worth saving
 Repo for recording some helpful URLS and Bookmarks. This repo mostly contain book recommendations and online courses links from Hackernews and other useful sites links.
 
-The general links are saved in the file:
+The general Computer Science related links are saved in the file:
 
-...[computer_science_resources]( computer_science_resources.md).
+[computer_science_resources]( computer_science_resources.md).
 
 Other links are grouped together in separate categories:
 * [backend_dev_resources](backend_dev_resources.md) : Links to programming languages like C, Java, Python and Go
