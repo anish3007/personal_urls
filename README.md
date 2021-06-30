@@ -4,7 +4,7 @@ Repo for recording some helpful URLS and Bookmarks. This repo mostly contain boo
 The general links are saved in the file computer_science_resources.
 
 Other links are grouped together in separate categories:
-* backend_dev_resources : Links to programming languages like C, Java, Python and Go
+* [backend_dev_resources](backend_dev_resources.md) : Links to programming languages like C, Java, Python and Go
 * fullstack_dev_resources : Links for Javascript, Node.js, React
 * ml_dl_resources : Machine Learning and Deep Learning resources
 * mobile_dev_resouces : Android and iOS development
