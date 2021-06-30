@@ -3,7 +3,9 @@
 * Fulltack Open course : https://fullstackopen.com/en/
 * Become a Fullstack Web Developer - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 
+
 ## Web Programming
+* Learn web development as an absolute beginner - https://coder-coder.com/learn-web-development/
 * Why web development is so complicated -  https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
 * Learning Javascript through video lectures - https://catonmat.net/learning-javascript-programming-language-through-video-lectures 
 * Javascript, the worlds most misunderstood language - http://crockford.com/javascript/  
@@ -11,7 +13,7 @@
 * Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
 * Minimal Web Development - https://meiert.com/en/blog/minimal-web-development/
 * Web Design in 4-minutes - https://jgthms.com/web-design-in-4-minutes/
-* Learn web development as an absolute beginner - https://coder-coder.com/learn-web-development/
+
 
 ### Javascript
 * The Javascript Tutorial - https://javascript.info/  
