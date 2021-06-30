@@ -40,13 +40,6 @@
 ## Programming Language 
 (refer to backend_dev_resources.md)
 
-### Bash
-* The Bash Hackers Wiki - https://wiki.bash-hackers.org/
-
-### Git
-* git log - https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/   
-* Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
-
 
 ## Datastructures and Algorithms
 (refer to interview_links.md)
