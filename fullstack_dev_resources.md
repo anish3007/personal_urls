@@ -11,7 +11,7 @@
 * Web Design with HTML, CSS, JavaScript and jQuery Set - https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=zg_bs_491314_3?_encoding=UTF8&psc=1&refRID=9JJZWS4TNAZF1H0YPD9S  
 * Minimal Web Development - https://meiert.com/en/blog/minimal-web-development/
 * Web Design in 4-minutes - https://jgthms.com/web-design-in-4-minutes/
-
+* Learn web development as an absolute beginner - https://coder-coder.com/learn-web-development/
 
 ### Javascript
 * The Javascript Tutorial - https://javascript.info/  
