@@ -10,8 +10,8 @@ Other links are grouped together in separate categories:
 * [fullstack_dev_resources](fullstack_dev_resources.md) : Links for Javascript, Node.js, React
 * [ml_dl_resources](ML_DL_resources.md) : Machine Learning and Deep Learning resources
 * [mobile_dev_resouces](mobile_dev_resources.md) : Android and iOS development
-* [software_architecture](software_architecture.md) : Contains topics such as System Design, Object Oriented Design and Distibutes Systems
+* [software_architecture](software_architecture.md) : Contains topics such as System Design, Object Oriented Design and Distributed Systems
 * [security_blockchain_resources]( security_blockchain_resources.md) : Topics related to Computer Security and Blockchain
 * [devops_resources]( devops_resources.md) : Links related to Devops
-* [interview_resources]( interview_resources.md) : Links to use for interview preparation
+* [interview_resources]( interview_resources.md) : Links to use for interview preparation/practise
 
