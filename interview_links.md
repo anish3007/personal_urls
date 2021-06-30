@@ -32,9 +32,6 @@
 * Leetcode - https://leetcode.com/  
 * Lambda Schools - https://lambdaschool.com/ 
 
-## Programming Interviews
- 
-
 
 
 ## Python
