@@ -6,6 +6,7 @@ The general links are saved in the file computer_science_resources.
 Other links are grouped together in separate categories:
 * backend_dev_resources : Links to programming languages like C, Java, Python and Go
 * fullstack_dev_resources : Links for Javascript, Node.js, React
+* ml_dl_resources : Machine Learning and Deep Learning resources
 * mobile_dev_resouces : Android and iOS development
 * software_architecture : Contains topics such as System Design, Object Oriented Design and Distibutes Systems
 * security_blockchain_resources : Topics related to Computer Security and Blockchain
