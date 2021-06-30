@@ -4,3 +4,6 @@
 
 ## Devops
 * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - https://www.amazon.com/dp/1942788290  
+
+## Bash
+* The Bash Hackers Wiki - https://wiki.bash-hackers.org/
