@@ -29,6 +29,12 @@
 * Codechef - https://www.codechef.com/
 * Hackerrank - https://www.hackerrank.com/
 * Codewar - https://www.codewars.com/
+* Leetcode - https://leetcode.com/  
+* Lambda Schools - https://lambdaschool.com/ 
+
+## Programming Interviews
+ 
+
 
 
 ## Python
@@ -63,6 +69,7 @@
 * Elements of Programming Interviews: The Insiders' Guide - https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=zg_bs_491298_12?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Grokking Algorithms: An illustrated guide for programmers and other curious people - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=zg_bs_491298_2?_encoding=UTF8&psc=1&refRID=AKYPWGVV76MK97PSGSPS  
 * Algorithms from the book - https://cstheory.stackexchange.com/questions/189/algorithms-from-the-book
+* Algorithms by Jeff Erickson - http://jeffe.cs.illinois.edu/teaching/algorithms/
 
 
 
@@ -102,3 +109,5 @@
 * The Horrifically Dystopian World of Software Engineering Interviews - https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews
 * Interviewing for a JavaScript Job - http://raganwald.com/2015/02/21/interviewing-for-a-front-end-job.html
 * How to Get a Job at Google - https://www.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html
+* Hiring without whiteboards - https://github.com/poteto/hiring-without-whiteboards
+* 60 interviews in 30 days - https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky  
