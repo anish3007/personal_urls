@@ -11,4 +11,5 @@ Other links are grouped together in separate categories:
 * software_architecture : Contains topics such as System Design, Object Oriented Design and Distibutes Systems
 * security_blockchain_resources : Topics related to Computer Security and Blockchain
 * devops_resources : Links related to Devops
+* interview_resources : Links to use for interview preparation
 
