@@ -28,7 +28,7 @@
 * Code with Node:Learn By Doing - https://www.devsprout.io/code-with-node
 * Node Tuts - http://nodetuts.com/index.html  
 * Design best practise - https://www.joyent.com/node-js/production/design
-
+* An Absolute Beginner's Guide to Using npm - https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
 
 ### React
 * User Registration and login tutorial - https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example#index-html  
