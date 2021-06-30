@@ -38,3 +38,8 @@
 * Intro to React - https://reactjs.org/tutorial/tutorial.html  
 * React Router Tutorial - https://github.com/reactjs/react-router-tutorial  
 * React Redux Tutorial - https://www.valentinog.com/blog/redux/   
+
+
+### Git
+* git log - https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/   
+* Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet   
