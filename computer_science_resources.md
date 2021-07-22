@@ -36,6 +36,7 @@
 * Best Websites Programmer should visit : https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 * Github repositories every aspiring developer should check out - https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
 * Computer Science Projects - https://hackr.io/blog/best-computer-science-projects
+* Python Project - https://www.crio.do/projects/category/python-projects
 
 ## Programming Language 
 (refer to backend_dev_resources.md)
