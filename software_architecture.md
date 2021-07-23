@@ -15,6 +15,7 @@
 * Shopify Engineering - https://shopify.engineering/
 * Uber Engineering Blog - https://eng.uber.com/category/articles/architecture/
 * Netflix Tech Blog - https://netflixtechblog.com/
+* Facebook Engineering - https://engineering.fb.com/
 * Grokking System Design - https://educative.io
 * Grokking Advanced System Design - https://educative.io
 * Youtube Architecture - http://highscalability.com/youtube-architecture   
