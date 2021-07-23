@@ -38,29 +38,6 @@
 * Computer Science Projects - https://hackr.io/blog/best-computer-science-projects
 * Python Project - https://www.crio.do/projects/category/python-projects
 
-## Programming Language 
-(refer to backend_dev_resources.md)
-
-
-## Datastructures and Algorithms
-(refer to interview_links.md)
-
-## Object Oriented and System Design
-(refer to software_architecture.md)
-
-
-## Web Programming and Full-Stack
-(refer to fullstack_dev_resources.md)
-
-
-## Distributed Systems
-(refer to software_architecture.md)
-
-
-## Computer Securtiy and Blockchain
-(refer to security_blockchain_resources.md)
-
-
 ## Computer Graphics
 * Princeton course - https://www.cs.princeton.edu/courses/archive/fall00/cs426/  
 * Stanford course - http://graphics.stanford.edu/courses/cs148-10-summer/  
@@ -104,9 +81,6 @@
 
 
 ## Computer Science and Programming Blogs
-* Stack Overflow Blog - https://stackoverflow.blog/  
-* Twitter Engineering Blog - https://engineering.twitter.com/  
-* Shopify Blog - https://engineering.shopify.com/blogs/engineering/what-is-nix  
 * Eli Bendersky's Blog - https://eli.thegreenplace.net/  
 * Anudeeps Blogs - https://blog.anudeep2011.com/  
 * Google Developer - https://developers.google.com/  
