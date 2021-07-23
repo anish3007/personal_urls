@@ -22,6 +22,7 @@
 * Python tutorial for beginners - https://www.youtube.com/watch?v=_uQrJ0TkZlc  
 * Automate Boring stuff with Python - http://automatetheboringstuff.com/  
 * Python Cheatsheet - https://www.pythonforbeginners.com/cheatsheet/  
+* Learn Python in Interactive Way - https://epicpython.com/
 * Web Scraping 101 with Python - https://www.scrapingbee.com/blog/web-scraping-101-with-python/
 * SICP in Python - https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html  
 * Python Programming And Numerical Methods - https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
