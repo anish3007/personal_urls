@@ -37,6 +37,8 @@
 * Github repositories every aspiring developer should check out - https://blog.rutikwankhade.dev/github-repositories-every-aspiring-developer-should-check-out
 * Computer Science Projects - https://hackr.io/blog/best-computer-science-projects
 * Python Project - https://www.crio.do/projects/category/python-projects
+* Projects for Advanced Beginers - https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/
+
 
 ## Computer Graphics
 * Princeton course - https://www.cs.princeton.edu/courses/archive/fall00/cs426/  
