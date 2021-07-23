@@ -11,7 +11,12 @@
 
 ## System Design
 * System Design Primer - https://github.com/donnemartin/system-design-primer 
-* How I write Backends : https://github.com/fpereiro/backendlore 
+* How I write Backends - https://github.com/fpereiro/backendlore 
+* Shopify Engineering - https://shopify.engineering/
+* Uber Engineering Blog - https://eng.uber.com/category/articles/architecture/
+* Netflix Tech Blog - https://netflixtechblog.com/
+* Grokking System Design - https://educative.io
+* Grokking Advanced System Design - https://educative.io
 * Youtube Architecture - http://highscalability.com/youtube-architecture   
 * Amazon Architecture - http://highscalability.com/amazon-architecture  
 * Google Architecture - http://highscalability.com/google-architecture  
@@ -22,6 +27,8 @@
 * Scalability Blogs - http://highscalability.com/blog/category/blog  
 * Architecture of open source applications - https://aosabook.org/en/index.html  
 * Making Instagram.com faster - https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538  
+* Gaurav Sen System Design Youtube videos
+
 
 ## Distributed Systems
 * MIT 6.824 Distributed Systems(Spring 2020) - https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
