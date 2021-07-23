@@ -18,6 +18,7 @@
 * Learn python the hard way - https://learnpythonthehardway.org/python3/  
 * Google's Python class - https://developers.google.com/edu/python/  
 * Official Python docs tutorials - https://docs.python.org/3/tutorial/  
+* Python Project - https://www.crio.do/projects/category/python-projects
 * Python tutorial for beginners - https://www.youtube.com/watch?v=_uQrJ0TkZlc  
 * Automate Boring stuff with Python - http://automatetheboringstuff.com/  
 * Python Cheatsheet - https://www.pythonforbeginners.com/cheatsheet/  
