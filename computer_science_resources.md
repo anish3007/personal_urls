@@ -133,6 +133,7 @@
 * What distinguishes great Software Engineers - https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf
 * Advanced Computer Science courses - https://news.ycombinator.com/item?id=25271676
 * How seraches work - https://www.google.com/search/howsearchworks/
+* Essays on programming I think about a lot - https://www.benkuhn.net/progessays/
 
 
 ## CS Tutorials
