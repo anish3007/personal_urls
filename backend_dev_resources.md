@@ -57,7 +57,12 @@
 * API Design Guide - https://cloud.google.com/apis/design/
 * Designing robust and predictable APIs with idempotency - https://stripe.com/blog/idempotency
 
+## Shell Scripting
+* quick guide - http://www.panix.com/~elflord/unix/bash-tute.html
+
+
 ## Other programming language
 * Hands on Scala - https://www.handsonscala.com/   
 * History of clojure - https://clojure.org/about/history  
+
 
