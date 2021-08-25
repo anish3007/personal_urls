@@ -15,3 +15,4 @@
 * Linux Training.be - http://linux-training.be/  
 * A Heavily Commented Linux Kernel Source Code - http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf
 * Kernel Booting Process - https://github.com/0xAX/linux-insides/tree/master/Booting
+* The Linux Kernel Module Programming Guide - https://sysprog21.github.io/lkmpg/
