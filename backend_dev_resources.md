@@ -57,7 +57,9 @@
 * API Design Guide - https://cloud.google.com/apis/design/
 * Designing robust and predictable APIs with idempotency - https://stripe.com/blog/idempotency
 
+
 ## Shell Scripting
+* Bash Hackers Wiki - https://wiki.bash-hackers.org/start
 * quick guide - http://www.panix.com/~elflord/unix/bash-tute.html
 
 
